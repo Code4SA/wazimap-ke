@@ -1,1 +1,4126 @@
-[{"model": "wazimap.geography", "pk": 2, "fields": {"geo_level": "country", "geo_code": "KE", "version": "2009", "name": "Kenya", "long_name": null, "square_kms": 581309.0, "parent_level": null, "parent_code": null}}, {"model": "wazimap.geography", "pk": 3, "fields": {"geo_level": "county", "geo_code": "1", "version": "2009", "name": "Mombasa", "long_name": null, "square_kms": 212.5, "parent_level": "country", "parent_code": "KE"}}, {"model": "wazimap.geography", "pk": 4, "fields": {"geo_level": "county", "geo_code": "2", "version": "2009", "name": "Kwale", "long_name": null, "square_kms": 8270.3, "parent_level": "country", "parent_code": "KE"}}, {"model": "wazimap.geography", "pk": 5, "fields": {"geo_level": "county", "geo_code": "3", "version": "2009", "name": "Kilifi", "long_name": null, "square_kms": 12245.9, "parent_level": "country", "parent_code": "KE"}}, {"model": "wazimap.geography", "pk": 6, "fields": {"geo_level": "county", "geo_code": "4", "version": "2009", "name": "Tana River", "long_name": null, "square_kms": 35375.8, "parent_level": "country", "parent_code": "KE"}}, {"model": "wazimap.geography", "pk": 7, "fields": {"geo_level": "county", "geo_code": "5", "version": "2009", "name": "Lamu", "long_name": null, "square_kms": 6497.7, "parent_level": "country", "parent_code": "KE"}}, {"model": "wazimap.geography", "pk": 8, "fields": {"geo_level": "county", "geo_code": "6", "version": "2009", "name": "Taita-Taveta", "long_name": null, "square_kms": 17083.9, "parent_level": "country", "parent_code": "KE"}}, {"model": "wazimap.geography", "pk": 9, "fields": {"geo_level": "county", "geo_code": "7", "version": "2009", "name": "Garissa", "long_name": null, "square_kms": 45720.2, "parent_level": "country", "parent_code": "KE"}}, {"model": "wazimap.geography", "pk": 10, "fields": {"geo_level": "county", "geo_code": "8", "version": "2009", "name": "Wajir", "long_name": null, "square_kms": 55840.6, "parent_level": "country", "parent_code": "KE"}}, {"model": "wazimap.geography", "pk": 11, "fields": {"geo_level": "county", "geo_code": "9", "version": "2009", "name": "Mandera", "long_name": null, "square_kms": 25797.7, "parent_level": "country", "parent_code": "KE"}}, {"model": "wazimap.geography", "pk": 12, "fields": {"geo_level": "county", "geo_code": "10", "version": "2009", "name": "Marsabit", "long_name": null, "square_kms": 66923.1, "parent_level": "country", "parent_code": "KE"}}, {"model": "wazimap.geography", "pk": 13, "fields": {"geo_level": "county", "geo_code": "11", "version": "2009", "name": "Isiolo", "long_name": null, "square_kms": 25336.1, "parent_level": "country", "parent_code": "KE"}}, {"model": "wazimap.geography", "pk": 14, "fields": {"geo_level": "county", "geo_code": "12", "version": "2009", "name": "Meru", "long_name": null, "square_kms": 6930.1, "parent_level": "country", "parent_code": "KE"}}, {"model": "wazimap.geography", "pk": 15, "fields": {"geo_level": "county", "geo_code": "13", "version": "2009", "name": "Tharaka-Nithi", "long_name": null, "square_kms": 2409.5, "parent_level": "country", "parent_code": "KE"}}, {"model": "wazimap.geography", "pk": 16, "fields": {"geo_level": "county", "geo_code": "14", "version": "2009", "name": "Embu", "long_name": null, "square_kms": 2555.9, "parent_level": "country", "parent_code": "KE"}}, {"model": "wazimap.geography", "pk": 17, "fields": {"geo_level": "county", "geo_code": "15", "version": "2009", "name": "Kitui", "long_name": null, "square_kms": 24385.1, "parent_level": "country", "parent_code": "KE"}}, {"model": "wazimap.geography", "pk": 18, "fields": {"geo_level": "county", "geo_code": "16", "version": "2009", "name": "Machakos", "long_name": null, "square_kms": 5952.9, "parent_level": "country", "parent_code": "KE"}}, {"model": "wazimap.geography", "pk": 19, "fields": {"geo_level": "county", "geo_code": "17", "version": "2009", "name": "Makueni", "long_name": null, "square_kms": 8008.9, "parent_level": "country", "parent_code": "KE"}}, {"model": "wazimap.geography", "pk": 20, "fields": {"geo_level": "county", "geo_code": "18", "version": "2009", "name": "Nyandarua", "long_name": null, "square_kms": 3107.7, "parent_level": "country", "parent_code": "KE"}}, {"model": "wazimap.geography", "pk": 21, "fields": {"geo_level": "county", "geo_code": "19", "version": "2009", "name": "Nyeri", "long_name": null, "square_kms": 2361.0, "parent_level": "country", "parent_code": "KE"}}, {"model": "wazimap.geography", "pk": 22, "fields": {"geo_level": "county", "geo_code": "20", "version": "2009", "name": "Kirinyaga", "long_name": null, "square_kms": 1205.4, "parent_level": "country", "parent_code": "KE"}}, {"model": "wazimap.geography", "pk": 23, "fields": {"geo_level": "county", "geo_code": "21", "version": "2009", "name": "Murang'a", "long_name": null, "square_kms": 2325.8, "parent_level": "country", "parent_code": "KE"}}, {"model": "wazimap.geography", "pk": 24, "fields": {"geo_level": "county", "geo_code": "22", "version": "2009", "name": "Kiambu", "long_name": null, "square_kms": 2449.2, "parent_level": "country", "parent_code": "KE"}}, {"model": "wazimap.geography", "pk": 25, "fields": {"geo_level": "county", "geo_code": "23", "version": "2009", "name": "Turkana", "long_name": null, "square_kms": 71597.8, "parent_level": "country", "parent_code": "KE"}}, {"model": "wazimap.geography", "pk": 26, "fields": {"geo_level": "county", "geo_code": "24", "version": "2009", "name": "West Pokot", "long_name": null, "square_kms": 8418.2, "parent_level": "country", "parent_code": "KE"}}, {"model": "wazimap.geography", "pk": 27, "fields": {"geo_level": "county", "geo_code": "25", "version": "2009", "name": "Samburu", "long_name": null, "square_kms": 20182.5, "parent_level": "country", "parent_code": "KE"}}, {"model": "wazimap.geography", "pk": 28, "fields": {"geo_level": "county", "geo_code": "26", "version": "2009", "name": "Trans-Nzoia", "long_name": null, "square_kms": 2469.9, "parent_level": "country", "parent_code": "KE"}}, {"model": "wazimap.geography", "pk": 29, "fields": {"geo_level": "county", "geo_code": "27", "version": "2009", "name": "Uasin Gishu", "long_name": null, "square_kms": 2955.3, "parent_level": "country", "parent_code": "KE"}}, {"model": "wazimap.geography", "pk": 30, "fields": {"geo_level": "county", "geo_code": "28", "version": "2009", "name": "Elgeyo-Marakwet", "long_name": null, "square_kms": 3049.7, "parent_level": "country", "parent_code": "KE"}}, {"model": "wazimap.geography", "pk": 31, "fields": {"geo_level": "county", "geo_code": "29", "version": "2009", "name": "Nandi", "long_name": null, "square_kms": 2884.5, "parent_level": "country", "parent_code": "KE"}}, {"model": "wazimap.geography", "pk": 32, "fields": {"geo_level": "county", "geo_code": "30", "version": "2009", "name": "Baringo", "long_name": null, "square_kms": 11075.3, "parent_level": "country", "parent_code": "KE"}}, {"model": "wazimap.geography", "pk": 33, "fields": {"geo_level": "county", "geo_code": "31", "version": "2009", "name": "Laikipia", "long_name": null, "square_kms": 8696.1, "parent_level": "country", "parent_code": "KE"}}, {"model": "wazimap.geography", "pk": 34, "fields": {"geo_level": "county", "geo_code": "32", "version": "2009", "name": "Nakuru", "long_name": null, "square_kms": 7509.5, "parent_level": "country", "parent_code": "KE"}}, {"model": "wazimap.geography", "pk": 35, "fields": {"geo_level": "county", "geo_code": "33", "version": "2009", "name": "Narok", "long_name": null, "square_kms": 17921.2, "parent_level": "country", "parent_code": "KE"}}, {"model": "wazimap.geography", "pk": 36, "fields": {"geo_level": "county", "geo_code": "34", "version": "2009", "name": "Kajiado", "long_name": null, "square_kms": 21292.7, "parent_level": "country", "parent_code": "KE"}}, {"model": "wazimap.geography", "pk": 37, "fields": {"geo_level": "county", "geo_code": "35", "version": "2009", "name": "Kericho", "long_name": null, "square_kms": 2454.5, "parent_level": "country", "parent_code": "KE"}}, {"model": "wazimap.geography", "pk": 38, "fields": {"geo_level": "county", "geo_code": "36", "version": "2009", "name": "Bomet", "long_name": null, "square_kms": 1997.9, "parent_level": "country", "parent_code": "KE"}}, {"model": "wazimap.geography", "pk": 39, "fields": {"geo_level": "county", "geo_code": "37", "version": "2009", "name": "Kakamega", "long_name": null, "square_kms": 3033.8, "parent_level": "country", "parent_code": "KE"}}, {"model": "wazimap.geography", "pk": 40, "fields": {"geo_level": "county", "geo_code": "38", "version": "2009", "name": "Vihiga", "long_name": null, "square_kms": 531.3, "parent_level": "country", "parent_code": "KE"}}, {"model": "wazimap.geography", "pk": 41, "fields": {"geo_level": "county", "geo_code": "39", "version": "2009", "name": "Bungoma", "long_name": null, "square_kms": 2206.9, "parent_level": "country", "parent_code": "KE"}}, {"model": "wazimap.geography", "pk": 42, "fields": {"geo_level": "county", "geo_code": "40", "version": "2009", "name": "Busia", "long_name": null, "square_kms": 1628.4, "parent_level": "country", "parent_code": "KE"}}, {"model": "wazimap.geography", "pk": 43, "fields": {"geo_level": "county", "geo_code": "41", "version": "2009", "name": "Siaya", "long_name": null, "square_kms": 2496.1, "parent_level": "country", "parent_code": "KE"}}, {"model": "wazimap.geography", "pk": 44, "fields": {"geo_level": "county", "geo_code": "42", "version": "2009", "name": "Kisumu", "long_name": null, "square_kms": 2009.5, "parent_level": "country", "parent_code": "KE"}}, {"model": "wazimap.geography", "pk": 45, "fields": {"geo_level": "county", "geo_code": "43", "version": "2009", "name": "Homa Bay", "long_name": null, "square_kms": 3154.7, "parent_level": "country", "parent_code": "KE"}}, {"model": "wazimap.geography", "pk": 46, "fields": {"geo_level": "county", "geo_code": "44", "version": "2009", "name": "Migori", "long_name": null, "square_kms": 2586.4, "parent_level": "country", "parent_code": "KE"}}, {"model": "wazimap.geography", "pk": 47, "fields": {"geo_level": "county", "geo_code": "45", "version": "2009", "name": "Kisii", "long_name": null, "square_kms": 1317.9, "parent_level": "country", "parent_code": "KE"}}, {"model": "wazimap.geography", "pk": 48, "fields": {"geo_level": "county", "geo_code": "46", "version": "2009", "name": "Nyamira", "long_name": null, "square_kms": 912.5, "parent_level": "country", "parent_code": "KE"}}, {"model": "wazimap.geography", "pk": 49, "fields": {"geo_level": "county", "geo_code": "47", "version": "2009", "name": "Nairobi", "long_name": null, "square_kms": 694.9, "parent_level": "country", "parent_code": "KE"}}, {"model": "wazimap.dataset", "pk": 1, "fields": {"name": "Census"}}, {"model": "wazimap.dataset", "pk": 2, "fields": {"name": "Annual Crimes Report"}}, {"model": "wazimap.dataset", "pk": 3, "fields": {"name": "KNBS Demographic and Health Survey"}}, {"model": "wazimap.dataset", "pk": 4, "fields": {"name": "Census 2011"}}, {"model": "wazimap.dataset", "pk": 5, "fields": {"name": "Voter Registration"}}, {"model": "wazimap.dataset", "pk": 6, "fields": {"name": "Crop production and Livestock"}}, {"model": "wazimap.dataset", "pk": 7, "fields": {"name": "Afrobarometer Survey"}}, {"model": "wazimap.release", "pk": 1, "fields": {"name": "Census", "year": "2009", "citation": null, "dataset": 1}}, {"model": "wazimap.release", "pk": 2, "fields": {"name": "Annual Crimes Report", "year": "2014", "citation": null, "dataset": 2}}, {"model": "wazimap.release", "pk": 3, "fields": {"name": "KNBS Demographic and Health Survey", "year": "2014", "citation": null, "dataset": 3}}, {"model": "wazimap.release", "pk": 4, "fields": {"name": "Census 2011", "year": "2014", "citation": null, "dataset": 4}}, {"model": "wazimap.release", "pk": 5, "fields": {"name": "Voter Registration", "year": "2017", "citation": null, "dataset": 5}}, {"model": "wazimap.release", "pk": 6, "fields": {"name": "Voter Registration", "year": "2015", "citation": "", "dataset": 5}}, {"model": "wazimap.release", "pk": 7, "fields": {"name": "Annual Crimes Report", "year": "2015", "citation": null, "dataset": 2}}, {"model": "wazimap.release", "pk": 8, "fields": {"name": "Crop production and Livestock", "year": "2014", "citation": null, "dataset": 6}}, {"model": "wazimap.release", "pk": 9, "fields": {"name": "Annual Crimes Report", "year": "2016", "citation": null, "dataset": 2}}, {"model": "wazimap.release", "pk": 10, "fields": {"name": "Afrobarometer Survey", "year": "2016", "citation": null, "dataset": 7}}, {"model": "wazimap.dbtable", "pk": 1, "fields": {"name": "maintypeofwallmaterial"}}, {"model": "wazimap.dbtable", "pk": 2, "fields": {"name": "protests"}}, {"model": "wazimap.dbtable", "pk": 3, "fields": {"name": "household_itn_use_users"}}, {"model": "wazimap.dbtable", "pk": 4, "fields": {"name": "useofipt"}}, {"model": "wazimap.dbtable", "pk": 5, "fields": {"name": "treatment_type"}}, {"model": "wazimap.dbtable", "pk": 6, "fields": {"name": "householdpossessionofitn"}}, {"model": "wazimap.dbtable", "pk": 7, "fields": {"name": "contraceptive_use"}}, {"model": "wazimap.dbtable", "pk": 8, "fields": {"name": "fertility"}}, {"model": "wazimap.dbtable", "pk": 9, "fields": {"name": "maintypeofroofingmaterial"}}, {"model": "wazimap.dbtable", "pk": 10, "fields": {"name": "healthratios"}}, {"model": "wazimap.dbtable", "pk": 11, "fields": {"name": "maintypeoflightingfuel"}}, {"model": "wazimap.dbtable", "pk": 12, "fields": {"name": "voterregistration_2017"}}, {"model": "wazimap.dbtable", "pk": 13, "fields": {"name": "voterregistration_2015"}}, {"model": "wazimap.dbtable", "pk": 14, "fields": {"name": "crimereport"}}, {"model": "wazimap.dbtable", "pk": 15, "fields": {"name": "religion"}}, {"model": "wazimap.dbtable", "pk": 16, "fields": {"name": "crop_production"}}, {"model": "wazimap.dbtable", "pk": 17, "fields": {"name": "mainsourceofwater"}}, {"model": "wazimap.dbtable", "pk": 18, "fields": {"name": "heightforage"}}, {"model": "wazimap.dbtable", "pk": 19, "fields": {"name": "schoolattendance_sex"}}, {"model": "wazimap.dbtable", "pk": 20, "fields": {"name": "treatmentofchildrenwithfever"}}, {"model": "wazimap.dbtable", "pk": 21, "fields": {"name": "livestock_population"}}, {"model": "wazimap.dbtable", "pk": 22, "fields": {"name": "highesteducationlevelreached"}}, {"model": "wazimap.dbtable", "pk": 23, "fields": {"name": "contraceptive_traditional_method"}}, {"model": "wazimap.dbtable", "pk": 24, "fields": {"name": "knowledgeofhivpreventionmethods_sex"}}, {"model": "wazimap.dbtable", "pk": 25, "fields": {"name": "maintypeoffloormaterial"}}, {"model": "wazimap.dbtable", "pk": 26, "fields": {"name": "weightforage"}}, {"model": "wazimap.dbtable", "pk": 27, "fields": {"name": "mainmodeofhumanwastedisposal"}}, {"model": "wazimap.dbtable", "pk": 28, "fields": {"name": "livestock_products"}}, {"model": "wazimap.dbtable", "pk": 29, "fields": {"name": "ageincompletedyears_ruralorurban_sex"}}, {"model": "wazimap.dbtable", "pk": 30, "fields": {"name": "vaccinations"}}, {"model": "wazimap.dbtable", "pk": 31, "fields": {"name": "household_heads"}}, {"model": "wazimap.dbtable", "pk": 32, "fields": {"name": "maternalcareindicators"}}, {"model": "wazimap.dbtable", "pk": 33, "fields": {"name": "typesofcrime"}}, {"model": "wazimap.dbtable", "pk": 34, "fields": {"name": "employmentactivitystatus_sex"}}, {"model": "wazimap.dbtable", "pk": 35, "fields": {"name": "schoolfires"}}, {"model": "wazimap.dbtable", "pk": 36, "fields": {"name": "contraceptive_modern_method"}}, {"model": "wazimap.dbtable", "pk": 37, "fields": {"name": "weightforheight"}}, {"model": "wazimap.dbtable", "pk": 38, "fields": {"name": "education_of_respondent"}}, {"model": "wazimap.dbtable", "pk": 39, "fields": {"name": "main_reason_for_not_reporting_corruption"}}, {"model": "wazimap.dbtable", "pk": 40, "fields": {"name": "positive_image_of_china"}}, {"model": "wazimap.dbtable", "pk": 41, "fields": {"name": "chinas_influence_on_economy"}}, {"model": "wazimap.dbtable", "pk": 42, "fields": {"name": "occupation_of_respondent"}}, {"model": "wazimap.dbtable", "pk": 43, "fields": {"name": "pay_bribe_treatment_public_health"}}, {"model": "wazimap.dbtable", "pk": 44, "fields": {"name": "corruption_president_office"}}, {"model": "wazimap.dbtable", "pk": 45, "fields": {"name": "election_work_for_candidate_or_party"}}, {"model": "wazimap.dbtable", "pk": 46, "fields": {"name": "satisfaction_with_democracy"}}, {"model": "wazimap.dbtable", "pk": 47, "fields": {"name": "people_must_obey_the_law"}}, {"model": "wazimap.dbtable", "pk": 48, "fields": {"name": "voting_recent_national_election"}}, {"model": "wazimap.dbtable", "pk": 49, "fields": {"name": "people_can_fight_corruption"}}, {"model": "wazimap.dbtable", "pk": 50, "fields": {"name": "corruption_judges_and_magistrates"}}, {"model": "wazimap.dbtable", "pk": 51, "fields": {"name": "elections_to_remove_leaders_from_office"}}, {"model": "wazimap.dbtable", "pk": 52, "fields": {"name": "pay_bribe_for_household_services"}}, {"model": "wazimap.dbtable", "pk": 53, "fields": {"name": "difficulty_to_obtain_medical_treatment"}}, {"model": "wazimap.dbtable", "pk": 54, "fields": {"name": "election_attend_campaign_rally"}}, {"model": "wazimap.dbtable", "pk": 55, "fields": {"name": "election_attend_campaign_meeting"}}, {"model": "wazimap.dbtable", "pk": 56, "fields": {"name": "vote_for_which_party"}}, {"model": "wazimap.dbtable", "pk": 57, "fields": {"name": "corruption_gov_officials"}}, {"model": "wazimap.dbtable", "pk": 58, "fields": {"name": "corruption_mps"}}, {"model": "wazimap.dbtable", "pk": 59, "fields": {"name": "pay_bribe_for_document_or_permit"}}, {"model": "wazimap.dbtable", "pk": 60, "fields": {"name": "corruption_traditional_leaders"}}, {"model": "wazimap.dbtable", "pk": 61, "fields": {"name": "own_television"}}, {"model": "wazimap.dbtable", "pk": 62, "fields": {"name": "corruption_tax_officials"}}, {"model": "wazimap.dbtable", "pk": 63, "fields": {"name": "elections_ensure_voters_views_are_reflected"}}, {"model": "wazimap.dbtable", "pk": 64, "fields": {"name": "own_mobile_phone"}}, {"model": "wazimap.dbtable", "pk": 65, "fields": {"name": "most_effective_way_to_combat_corruption"}}, {"model": "wazimap.dbtable", "pk": 66, "fields": {"name": "how_often_use_the_internet"}}, {"model": "wazimap.dbtable", "pk": 67, "fields": {"name": "freeness_and_fairness_last_elections"}}, {"model": "wazimap.dbtable", "pk": 68, "fields": {"name": "chinas_influence_positive_or_negative"}}, {"model": "wazimap.dbtable", "pk": 69, "fields": {"name": "difficulty_to_obtain_identity_document"}}, {"model": "wazimap.dbtable", "pk": 70, "fields": {"name": "difficulty_to_obtain_household_services"}}, {"model": "wazimap.dbtable", "pk": 71, "fields": {"name": "level_of_corruption"}}, {"model": "wazimap.dbtable", "pk": 72, "fields": {"name": "chinas_assistance_meets_country_needs"}}, {"model": "wazimap.dbtable", "pk": 73, "fields": {"name": "corruption_local_gov_councilors"}}, {"model": "wazimap.dbtable", "pk": 74, "fields": {"name": "extent_of_democracy"}}, {"model": "wazimap.dbtable", "pk": 75, "fields": {"name": "pay_bribe_for_school_services"}}, {"model": "wazimap.dbtable", "pk": 76, "fields": {"name": "corruption_religious_leaders"}}, {"model": "wazimap.dbtable", "pk": 77, "fields": {"name": "corruption_business_executives"}}, {"model": "wazimap.dbtable", "pk": 78, "fields": {"name": "employment_status"}}, {"model": "wazimap.dbtable", "pk": 79, "fields": {"name": "difficulty_to_obtain_public_school_services"}}, {"model": "wazimap.dbtable", "pk": 80, "fields": {"name": "corruption_police"}}, {"model": "wazimap.dbtable", "pk": 81, "fields": {"name": "negative_image_of_china"}}, {"model": "wazimap.dbtable", "pk": 82, "fields": {"name": "own_radio"}}, {"model": "wazimap.dbtable", "pk": 83, "fields": {"name": "people_must_pay_taxes"}}, {"model": "wazimap.dbtable", "pk": 84, "fields": {"name": "courts_make_binding_decisions"}}, {"model": "wazimap.dbtable", "pk": 85, "fields": {"name": "employer_of_respondent"}}, {"model": "wazimap.dbtable", "pk": 86, "fields": {"name": "how_often_use_a_mobile_phone"}}, {"model": "wazimap.dbtable", "pk": 87, "fields": {"name": "own_motor_vehicle"}}, {"model": "wazimap.fieldtable", "pk": 1, "fields": {"name": "MAINTYPEOFWALLMATERIAL", "universe": "Households", "dataset": 1, "stat_type": "number", "description": "Households by main type of wall material", "fields": "[\"main type of wall material\"]", "denominator_key": null, "has_total": true, "value_type": "Integer"}}, {"model": "wazimap.fieldtable", "pk": 2, "fields": {"name": "PROTESTS", "universe": "Population", "dataset": 2, "stat_type": "number", "description": "Population by protests", "fields": "[\"protests\"]", "denominator_key": null, "has_total": true, "value_type": "Integer"}}, {"model": "wazimap.fieldtable", "pk": 3, "fields": {"name": "HOUSEHOLD_ITN_USE_USERS", "universe": "ITN", "dataset": 3, "stat_type": "number", "description": "ITN by household, users, itn_use", "fields": "[\"household\", \"users\", \"itn_use\"]", "denominator_key": null, "has_total": true, "value_type": "Integer"}}, {"model": "wazimap.fieldtable", "pk": 4, "fields": {"name": "USEOFIPT", "universe": "Maternal care indicators", "dataset": 3, "stat_type": "number", "description": "Maternal care indicators by use of ipt", "fields": "[\"use of ipt\"]", "denominator_key": null, "has_total": true, "value_type": "Integer"}}, {"model": "wazimap.fieldtable", "pk": 5, "fields": {"name": "TREATMENT_TYPE", "universe": "Population", "dataset": 3, "stat_type": "number", "description": "Population by type, treatment", "fields": "[\"type\", \"treatment\"]", "denominator_key": null, "has_total": true, "value_type": "Integer"}}, {"model": "wazimap.fieldtable", "pk": 6, "fields": {"name": "HOUSEHOLDPOSSESSIONOFITN", "universe": "ITN", "dataset": 3, "stat_type": "number", "description": "ITN by household possession of itn", "fields": "[\"household possession of itn\"]", "denominator_key": null, "has_total": true, "value_type": "Integer"}}, {"model": "wazimap.fieldtable", "pk": 7, "fields": {"name": "CONTRACEPTIVE_USE", "universe": "Contraceptive_use", "dataset": 4, "stat_type": "number", "description": "Contraceptive_use by contraceptive_use", "fields": "[\"contraceptive_use\"]", "denominator_key": null, "has_total": true, "value_type": "Integer"}}, {"model": "wazimap.fieldtable", "pk": 8, "fields": {"name": "FERTILITY", "universe": "Population", "dataset": 3, "stat_type": "number", "description": "Population by fertility", "fields": "[\"fertility\"]", "denominator_key": null, "has_total": true, "value_type": "Integer"}}, {"model": "wazimap.fieldtable", "pk": 9, "fields": {"name": "MAINTYPEOFROOFINGMATERIAL", "universe": "Households", "dataset": 1, "stat_type": "number", "description": "Households by main type of roofing material", "fields": "[\"main type of roofing material\"]", "denominator_key": null, "has_total": true, "value_type": "Integer"}}, {"model": "wazimap.fieldtable", "pk": 10, "fields": {"name": "HEALTHRATIOS", "universe": "Population", "dataset": 3, "stat_type": "number", "description": "Population by healthratios", "fields": "[\"healthratios\"]", "denominator_key": null, "has_total": true, "value_type": "Integer"}}, {"model": "wazimap.fieldtable", "pk": 11, "fields": {"name": "MAINTYPEOFLIGHTINGFUEL", "universe": "Households", "dataset": 1, "stat_type": "number", "description": "Households by main type of lighting fuel", "fields": "[\"main type of lighting fuel\"]", "denominator_key": null, "has_total": true, "value_type": "Integer"}}, {"model": "wazimap.fieldtable", "pk": 12, "fields": {"name": "VOTERREGISTRATION_2017", "universe": "Population", "dataset": 5, "stat_type": "number", "description": "Population by voterregistration_2017", "fields": "[\"voterregistration_2017\"]", "denominator_key": null, "has_total": true, "value_type": "Integer"}}, {"model": "wazimap.fieldtable", "pk": 13, "fields": {"name": "VOTERREGISTRATION_2015", "universe": "Population", "dataset": 5, "stat_type": "number", "description": "Population by voterregistration_2015", "fields": "[\"voterregistration_2015\"]", "denominator_key": null, "has_total": true, "value_type": "Integer"}}, {"model": "wazimap.fieldtable", "pk": 14, "fields": {"name": "CRIMEREPORT", "universe": "Population", "dataset": 2, "stat_type": "number", "description": "Population by crimereport", "fields": "[\"crimereport\"]", "denominator_key": null, "has_total": true, "value_type": "Integer"}}, {"model": "wazimap.fieldtable", "pk": 15, "fields": {"name": "RELIGION", "universe": "Population", "dataset": 1, "stat_type": "number", "description": "Population by religion", "fields": "[\"religion\"]", "denominator_key": null, "has_total": true, "value_type": "Integer"}}, {"model": "wazimap.fieldtable", "pk": 16, "fields": {"name": "CROP_PRODUCTION", "universe": "Population", "dataset": 6, "stat_type": "number", "description": "Crop production and Livestock population for the year 2014 provided by the Ministry of Agriculture, Livestock and Fisheries.", "fields": "[\"crop_production\"]", "denominator_key": null, "has_total": true, "value_type": "Integer"}}, {"model": "wazimap.fieldtable", "pk": 17, "fields": {"name": "MAINSOURCEOFWATER", "universe": "Households", "dataset": 1, "stat_type": "number", "description": "Households by main source of water", "fields": "[\"main source of water\"]", "denominator_key": null, "has_total": true, "value_type": "Integer"}}, {"model": "wazimap.fieldtable", "pk": 18, "fields": {"name": "HEIGHTFORAGE", "universe": "Nutrition", "dataset": 3, "stat_type": "number", "description": "Nutrition by height for age", "fields": "[\"height for age\"]", "denominator_key": null, "has_total": true, "value_type": "Integer"}}, {"model": "wazimap.fieldtable", "pk": 19, "fields": {"name": "SCHOOLATTENDANCE_SEX", "universe": "People aged 3 years and older", "dataset": 1, "stat_type": "number", "description": "People aged 3 years and older by school attendance, sex", "fields": "[\"school attendance\", \"sex\"]", "denominator_key": null, "has_total": true, "value_type": "Integer"}}, {"model": "wazimap.fieldtable", "pk": 20, "fields": {"name": "TREATMENTOFCHILDRENWITHFEVER", "universe": "Population", "dataset": 3, "stat_type": "number", "description": "Population by treatment of children with fever", "fields": "[\"treatment of children with fever\"]", "denominator_key": null, "has_total": true, "value_type": "Integer"}}, {"model": "wazimap.fieldtable", "pk": 21, "fields": {"name": "LIVESTOCK_POPULATION", "universe": "Population", "dataset": 6, "stat_type": "number", "description": "Crop production and Livestock population for the year 2014 provided by the Ministry of Agriculture, Livestock and Fisheries.", "fields": "[\"livestock_population\"]", "denominator_key": null, "has_total": true, "value_type": "Integer"}}, {"model": "wazimap.fieldtable", "pk": 22, "fields": {"name": "HIGHESTEDUCATIONLEVELREACHED", "universe": "People aged 3 years and older", "dataset": 1, "stat_type": "number", "description": "People aged 3 years and older by highest education level reached", "fields": "[\"highest education level reached\"]", "denominator_key": null, "has_total": true, "value_type": "Integer"}}, {"model": "wazimap.fieldtable", "pk": 23, "fields": {"name": "CONTRACEPTIVE_TRADITIONAL_METHOD", "universe": "Contraceptive_use", "dataset": 3, "stat_type": "number", "description": "Contraceptive_use by contraceptive_traditional_method", "fields": "[\"contraceptive_traditional_method\"]", "denominator_key": null, "has_total": true, "value_type": "Integer"}}, {"model": "wazimap.fieldtable", "pk": 24, "fields": {"name": "KNOWLEDGEOFHIVPREVENTIONMETHODS_SEX", "universe": "Population", "dataset": 3, "stat_type": "number", "description": "Population by knowledge of hiv prevention methods, sex", "fields": "[\"knowledge of hiv prevention methods\", \"sex\"]", "denominator_key": null, "has_total": true, "value_type": "Integer"}}, {"model": "wazimap.fieldtable", "pk": 25, "fields": {"name": "MAINTYPEOFFLOORMATERIAL", "universe": "Households", "dataset": 1, "stat_type": "number", "description": "Households by main type of floor material", "fields": "[\"main type of floor material\"]", "denominator_key": null, "has_total": true, "value_type": "Integer"}}, {"model": "wazimap.fieldtable", "pk": 26, "fields": {"name": "WEIGHTFORAGE", "universe": "Nutrition", "dataset": 3, "stat_type": "number", "description": "Nutrition by weight for age", "fields": "[\"weight for age\"]", "denominator_key": null, "has_total": true, "value_type": "Integer"}}, {"model": "wazimap.fieldtable", "pk": 27, "fields": {"name": "MAINMODEOFHUMANWASTEDISPOSAL", "universe": "Households", "dataset": 1, "stat_type": "number", "description": "Households by main mode of human waste disposal", "fields": "[\"main mode of human waste disposal\"]", "denominator_key": null, "has_total": true, "value_type": "Integer"}}, {"model": "wazimap.fieldtable", "pk": 28, "fields": {"name": "LIVESTOCK_PRODUCTS", "universe": "Population", "dataset": 6, "stat_type": "number", "description": "Crop production and Livestock population for the year 2014 provided by the Ministry of Agriculture, Livestock and Fisheries.", "fields": "[\"livestock_products\"]", "denominator_key": null, "has_total": true, "value_type": "Integer"}}, {"model": "wazimap.fieldtable", "pk": 29, "fields": {"name": "AGEINCOMPLETEDYEARS_RURALORURBAN_SEX", "universe": "Population", "dataset": 1, "stat_type": "number", "description": "Population by rural or urban, sex, age in completed years", "fields": "[\"rural or urban\", \"sex\", \"age in completed years\"]", "denominator_key": null, "has_total": true, "value_type": "Integer"}}, {"model": "wazimap.fieldtable", "pk": 30, "fields": {"name": "VACCINATIONS", "universe": "Population", "dataset": 3, "stat_type": "number", "description": "Population by vaccinations", "fields": "[\"vaccinations\"]", "denominator_key": null, "has_total": true, "value_type": "Integer"}}, {"model": "wazimap.fieldtable", "pk": 31, "fields": {"name": "HOUSEHOLD_HEADS", "universe": "Population", "dataset": 1, "stat_type": "number", "description": "Population by Household_Heads", "fields": "[\"Household_Heads\"]", "denominator_key": null, "has_total": true, "value_type": "Integer"}}, {"model": "wazimap.fieldtable", "pk": 32, "fields": {"name": "MATERNALCAREINDICATORS", "universe": "Maternal care indicators", "dataset": 3, "stat_type": "number", "description": "Maternal care indicators by maternal care indicators", "fields": "[\"maternal care indicators\"]", "denominator_key": null, "has_total": true, "value_type": "Integer"}}, {"model": "wazimap.fieldtable", "pk": 33, "fields": {"name": "TYPESOFCRIME", "universe": "Population", "dataset": 2, "stat_type": "number", "description": "Population by typesofcrime", "fields": "[\"typesofcrime\"]", "denominator_key": null, "has_total": true, "value_type": "Integer"}}, {"model": "wazimap.fieldtable", "pk": 34, "fields": {"name": "EMPLOYMENTACTIVITYSTATUS_SEX", "universe": "People aged 5 years and older", "dataset": 1, "stat_type": "number", "description": "People aged 5 years and older by employment activity status, sex", "fields": "[\"employment activity status\", \"sex\"]", "denominator_key": null, "has_total": true, "value_type": "Integer"}}, {"model": "wazimap.fieldtable", "pk": 35, "fields": {"name": "SCHOOLFIRES", "universe": "Population", "dataset": 2, "stat_type": "number", "description": "Population by schoolfires", "fields": "[\"schoolfires\"]", "denominator_key": null, "has_total": true, "value_type": "Integer"}}, {"model": "wazimap.fieldtable", "pk": 36, "fields": {"name": "CONTRACEPTIVE_MODERN_METHOD", "universe": "Contraceptive_use", "dataset": 3, "stat_type": "number", "description": "Contraceptive_use by contraceptive_modern_method", "fields": "[\"contraceptive_modern_method\"]", "denominator_key": null, "has_total": true, "value_type": "Integer"}}, {"model": "wazimap.fieldtable", "pk": 37, "fields": {"name": "WEIGHTFORHEIGHT", "universe": "Nutrition", "dataset": 3, "stat_type": "number", "description": "Nutrition by weight for height", "fields": "[\"weight for height\"]", "denominator_key": null, "has_total": true, "value_type": "Integer"}}, {"model": "wazimap.fieldtable", "pk": 38, "fields": {"name": "EDUCATION_OF_RESPONDENT", "universe": "Population", "dataset": 7, "stat_type": "number", "description": "Population by education_of_respondent", "fields": "[\"education_of_respondent\"]", "denominator_key": null, "has_total": true, "value_type": "Integer"}}, {"model": "wazimap.fieldtable", "pk": 39, "fields": {"name": "MAIN_REASON_FOR_NOT_REPORTING_CORRUPTION", "universe": "Population", "dataset": 7, "stat_type": "number", "description": "Population by main_reason_for_not_reporting_corruption", "fields": "[\"main_reason_for_not_reporting_corruption\"]", "denominator_key": null, "has_total": true, "value_type": "Integer"}}, {"model": "wazimap.fieldtable", "pk": 40, "fields": {"name": "POSITIVE_IMAGE_OF_CHINA", "universe": "Population", "dataset": 7, "stat_type": "number", "description": "Population by positive_image_of_china", "fields": "[\"positive_image_of_china\"]", "denominator_key": null, "has_total": true, "value_type": "Integer"}}, {"model": "wazimap.fieldtable", "pk": 41, "fields": {"name": "CHINAS_INFLUENCE_ON_ECONOMY", "universe": "Population", "dataset": 7, "stat_type": "number", "description": "Population by chinas_influence_on_economy", "fields": "[\"chinas_influence_on_economy\"]", "denominator_key": null, "has_total": true, "value_type": "Integer"}}, {"model": "wazimap.fieldtable", "pk": 42, "fields": {"name": "OCCUPATION_OF_RESPONDENT", "universe": "Population", "dataset": 7, "stat_type": "number", "description": "Population by occupation_of_respondent", "fields": "[\"occupation_of_respondent\"]", "denominator_key": null, "has_total": true, "value_type": "Integer"}}, {"model": "wazimap.fieldtable", "pk": 43, "fields": {"name": "PAY_BRIBE_TREATMENT_PUBLIC_HEALTH", "universe": "Population", "dataset": 7, "stat_type": "number", "description": "Population by pay_bribe_treatment_public_health", "fields": "[\"pay_bribe_treatment_public_health\"]", "denominator_key": null, "has_total": true, "value_type": "Integer"}}, {"model": "wazimap.fieldtable", "pk": 44, "fields": {"name": "CORRUPTION_PRESIDENT_OFFICE", "universe": "Population", "dataset": 7, "stat_type": "number", "description": "Population by corruption_president_office", "fields": "[\"corruption_president_office\"]", "denominator_key": null, "has_total": true, "value_type": "Integer"}}, {"model": "wazimap.fieldtable", "pk": 45, "fields": {"name": "ELECTION_WORK_FOR_CANDIDATE_OR_PARTY", "universe": "Population", "dataset": 7, "stat_type": "number", "description": "Population by election_work_for_candidate_or_party", "fields": "[\"election_work_for_candidate_or_party\"]", "denominator_key": null, "has_total": true, "value_type": "Integer"}}, {"model": "wazimap.fieldtable", "pk": 46, "fields": {"name": "SATISFACTION_WITH_DEMOCRACY", "universe": "Population", "dataset": 7, "stat_type": "number", "description": "Population by satisfaction_with_democracy", "fields": "[\"satisfaction_with_democracy\"]", "denominator_key": null, "has_total": true, "value_type": "Integer"}}, {"model": "wazimap.fieldtable", "pk": 47, "fields": {"name": "PEOPLE_MUST_OBEY_THE_LAW", "universe": "Population", "dataset": 7, "stat_type": "number", "description": "Population by people_must_obey_the_law", "fields": "[\"people_must_obey_the_law\"]", "denominator_key": null, "has_total": true, "value_type": "Integer"}}, {"model": "wazimap.fieldtable", "pk": 48, "fields": {"name": "VOTING_RECENT_NATIONAL_ELECTION", "universe": "Population", "dataset": 7, "stat_type": "number", "description": "Population by voting_recent_national_election", "fields": "[\"voting_recent_national_election\"]", "denominator_key": null, "has_total": true, "value_type": "Integer"}}, {"model": "wazimap.fieldtable", "pk": 49, "fields": {"name": "PEOPLE_CAN_FIGHT_CORRUPTION", "universe": "Population", "dataset": 7, "stat_type": "number", "description": "Population by people_can_fight_corruption", "fields": "[\"people_can_fight_corruption\"]", "denominator_key": null, "has_total": true, "value_type": "Integer"}}, {"model": "wazimap.fieldtable", "pk": 50, "fields": {"name": "CORRUPTION_JUDGES_AND_MAGISTRATES", "universe": "Population", "dataset": 7, "stat_type": "number", "description": "Population by corruption_judges_and_magistrates", "fields": "[\"corruption_judges_and_magistrates\"]", "denominator_key": null, "has_total": true, "value_type": "Integer"}}, {"model": "wazimap.fieldtable", "pk": 51, "fields": {"name": "ELECTIONS_TO_REMOVE_LEADERS_FROM_OFFICE", "universe": "Population", "dataset": 7, "stat_type": "number", "description": "Population by elections_to_remove_leaders_from_office", "fields": "[\"elections_to_remove_leaders_from_office\"]", "denominator_key": null, "has_total": true, "value_type": "Integer"}}, {"model": "wazimap.fieldtable", "pk": 52, "fields": {"name": "PAY_BRIBE_FOR_HOUSEHOLD_SERVICES", "universe": "Population", "dataset": 7, "stat_type": "number", "description": "Population by pay_bribe_for_household_services", "fields": "[\"pay_bribe_for_household_services\"]", "denominator_key": null, "has_total": true, "value_type": "Integer"}}, {"model": "wazimap.fieldtable", "pk": 53, "fields": {"name": "DIFFICULTY_TO_OBTAIN_MEDICAL_TREATMENT", "universe": "Population", "dataset": 7, "stat_type": "number", "description": "Population by difficulty_to_obtain_medical_treatment", "fields": "[\"difficulty_to_obtain_medical_treatment\"]", "denominator_key": null, "has_total": true, "value_type": "Integer"}}, {"model": "wazimap.fieldtable", "pk": 54, "fields": {"name": "ELECTION_ATTEND_CAMPAIGN_RALLY", "universe": "Population", "dataset": 7, "stat_type": "number", "description": "Population by election_attend_campaign_rally", "fields": "[\"election_attend_campaign_rally\"]", "denominator_key": null, "has_total": true, "value_type": "Integer"}}, {"model": "wazimap.fieldtable", "pk": 55, "fields": {"name": "ELECTION_ATTEND_CAMPAIGN_MEETING", "universe": "Population", "dataset": 7, "stat_type": "number", "description": "Population by election_attend_campaign_meeting", "fields": "[\"election_attend_campaign_meeting\"]", "denominator_key": null, "has_total": true, "value_type": "Integer"}}, {"model": "wazimap.fieldtable", "pk": 56, "fields": {"name": "VOTE_FOR_WHICH_PARTY", "universe": "Population", "dataset": 7, "stat_type": "number", "description": "Population by vote_for_which_party", "fields": "[\"vote_for_which_party\"]", "denominator_key": null, "has_total": true, "value_type": "Integer"}}, {"model": "wazimap.fieldtable", "pk": 57, "fields": {"name": "CORRUPTION_GOV_OFFICIALS", "universe": "Population", "dataset": 7, "stat_type": "number", "description": "Population by corruption_gov_officials", "fields": "[\"corruption_gov_officials\"]", "denominator_key": null, "has_total": true, "value_type": "Integer"}}, {"model": "wazimap.fieldtable", "pk": 58, "fields": {"name": "CORRUPTION_MPS", "universe": "Population", "dataset": 7, "stat_type": "number", "description": "Population by corruption_mps", "fields": "[\"corruption_mps\"]", "denominator_key": null, "has_total": true, "value_type": "Integer"}}, {"model": "wazimap.fieldtable", "pk": 59, "fields": {"name": "PAY_BRIBE_FOR_DOCUMENT_OR_PERMIT", "universe": "Population", "dataset": 7, "stat_type": "number", "description": "Population by pay_bribe_for_document_or_permit", "fields": "[\"pay_bribe_for_document_or_permit\"]", "denominator_key": null, "has_total": true, "value_type": "Integer"}}, {"model": "wazimap.fieldtable", "pk": 60, "fields": {"name": "CORRUPTION_TRADITIONAL_LEADERS", "universe": "Population", "dataset": 7, "stat_type": "number", "description": "Population by corruption_traditional_leaders", "fields": "[\"corruption_traditional_leaders\"]", "denominator_key": null, "has_total": true, "value_type": "Integer"}}, {"model": "wazimap.fieldtable", "pk": 61, "fields": {"name": "OWN_TELEVISION", "universe": "Population", "dataset": 7, "stat_type": "number", "description": "Population by own_television", "fields": "[\"own_television\"]", "denominator_key": null, "has_total": true, "value_type": "Integer"}}, {"model": "wazimap.fieldtable", "pk": 62, "fields": {"name": "CORRUPTION_TAX_OFFICIALS", "universe": "Population", "dataset": 7, "stat_type": "number", "description": "Population by corruption_tax_officials", "fields": "[\"corruption_tax_officials\"]", "denominator_key": null, "has_total": true, "value_type": "Integer"}}, {"model": "wazimap.fieldtable", "pk": 63, "fields": {"name": "ELECTIONS_ENSURE_VOTERS_VIEWS_ARE_REFLECTED", "universe": "Population", "dataset": 7, "stat_type": "number", "description": "Population by elections_ensure_voters_views_are_reflected", "fields": "[\"elections_ensure_voters_views_are_reflected\"]", "denominator_key": null, "has_total": true, "value_type": "Integer"}}, {"model": "wazimap.fieldtable", "pk": 64, "fields": {"name": "OWN_MOBILE_PHONE", "universe": "Population", "dataset": 7, "stat_type": "number", "description": "Population by own_mobile_phone", "fields": "[\"own_mobile_phone\"]", "denominator_key": null, "has_total": true, "value_type": "Integer"}}, {"model": "wazimap.fieldtable", "pk": 65, "fields": {"name": "MOST_EFFECTIVE_WAY_TO_COMBAT_CORRUPTION", "universe": "Population", "dataset": 7, "stat_type": "number", "description": "Population by most_effective_way_to_combat_corruption", "fields": "[\"most_effective_way_to_combat_corruption\"]", "denominator_key": null, "has_total": true, "value_type": "Integer"}}, {"model": "wazimap.fieldtable", "pk": 66, "fields": {"name": "HOW_OFTEN_USE_THE_INTERNET", "universe": "Population", "dataset": 7, "stat_type": "number", "description": "Population by how_often_use_the_internet", "fields": "[\"how_often_use_the_internet\"]", "denominator_key": null, "has_total": true, "value_type": "Integer"}}, {"model": "wazimap.fieldtable", "pk": 67, "fields": {"name": "FREENESS_AND_FAIRNESS_LAST_ELECTIONS", "universe": "Population", "dataset": 7, "stat_type": "number", "description": "Population by freeness_and_fairness_last_elections", "fields": "[\"freeness_and_fairness_last_elections\"]", "denominator_key": null, "has_total": true, "value_type": "Integer"}}, {"model": "wazimap.fieldtable", "pk": 68, "fields": {"name": "CHINAS_INFLUENCE_POSITIVE_OR_NEGATIVE", "universe": "Population", "dataset": 7, "stat_type": "number", "description": "Population by chinas_influence_positive_or_negative", "fields": "[\"chinas_influence_positive_or_negative\"]", "denominator_key": null, "has_total": true, "value_type": "Integer"}}, {"model": "wazimap.fieldtable", "pk": 69, "fields": {"name": "DIFFICULTY_TO_OBTAIN_IDENTITY_DOCUMENT", "universe": "Population", "dataset": 7, "stat_type": "number", "description": "Population by difficulty_to_obtain_identity_document", "fields": "[\"difficulty_to_obtain_identity_document\"]", "denominator_key": null, "has_total": true, "value_type": "Integer"}}, {"model": "wazimap.fieldtable", "pk": 70, "fields": {"name": "DIFFICULTY_TO_OBTAIN_HOUSEHOLD_SERVICES", "universe": "Population", "dataset": 7, "stat_type": "number", "description": "Population by difficulty_to_obtain_household_services", "fields": "[\"difficulty_to_obtain_household_services\"]", "denominator_key": null, "has_total": true, "value_type": "Integer"}}, {"model": "wazimap.fieldtable", "pk": 71, "fields": {"name": "LEVEL_OF_CORRUPTION", "universe": "Population", "dataset": 7, "stat_type": "number", "description": "Population by level_of_corruption", "fields": "[\"level_of_corruption\"]", "denominator_key": null, "has_total": true, "value_type": "Integer"}}, {"model": "wazimap.fieldtable", "pk": 72, "fields": {"name": "CHINAS_ASSISTANCE_MEETS_COUNTRY_NEEDS", "universe": "Population", "dataset": 7, "stat_type": "number", "description": "Population by chinas_assistance_meets_country_needs", "fields": "[\"chinas_assistance_meets_country_needs\"]", "denominator_key": null, "has_total": true, "value_type": "Integer"}}, {"model": "wazimap.fieldtable", "pk": 73, "fields": {"name": "CORRUPTION_LOCAL_GOV_COUNCILORS", "universe": "Population", "dataset": 7, "stat_type": "number", "description": "Population by corruption_local_gov_councilors", "fields": "[\"corruption_local_gov_councilors\"]", "denominator_key": null, "has_total": true, "value_type": "Integer"}}, {"model": "wazimap.fieldtable", "pk": 74, "fields": {"name": "EXTENT_OF_DEMOCRACY", "universe": "Population", "dataset": 7, "stat_type": "number", "description": "Population by extent_of_democracy", "fields": "[\"extent_of_democracy\"]", "denominator_key": null, "has_total": true, "value_type": "Integer"}}, {"model": "wazimap.fieldtable", "pk": 75, "fields": {"name": "PAY_BRIBE_FOR_SCHOOL_SERVICES", "universe": "Population", "dataset": 7, "stat_type": "number", "description": "Population by pay_bribe_for_school_services", "fields": "[\"pay_bribe_for_school_services\"]", "denominator_key": null, "has_total": true, "value_type": "Integer"}}, {"model": "wazimap.fieldtable", "pk": 76, "fields": {"name": "CORRUPTION_RELIGIOUS_LEADERS", "universe": "Population", "dataset": 7, "stat_type": "number", "description": "Population by corruption_religious_leaders", "fields": "[\"corruption_religious_leaders\"]", "denominator_key": null, "has_total": true, "value_type": "Integer"}}, {"model": "wazimap.fieldtable", "pk": 77, "fields": {"name": "CORRUPTION_BUSINESS_EXECUTIVES", "universe": "Population", "dataset": 7, "stat_type": "number", "description": "Population by corruption_business_executives", "fields": "[\"corruption_business_executives\"]", "denominator_key": null, "has_total": true, "value_type": "Integer"}}, {"model": "wazimap.fieldtable", "pk": 78, "fields": {"name": "EMPLOYMENT_STATUS", "universe": "Population", "dataset": 7, "stat_type": "number", "description": "Population by employment_status", "fields": "[\"employment_status\"]", "denominator_key": null, "has_total": true, "value_type": "Integer"}}, {"model": "wazimap.fieldtable", "pk": 79, "fields": {"name": "DIFFICULTY_TO_OBTAIN_PUBLIC_SCHOOL_SERVICES", "universe": "Population", "dataset": 7, "stat_type": "number", "description": "Population by difficulty_to_obtain_public_school_services", "fields": "[\"difficulty_to_obtain_public_school_services\"]", "denominator_key": null, "has_total": true, "value_type": "Integer"}}, {"model": "wazimap.fieldtable", "pk": 80, "fields": {"name": "CORRUPTION_POLICE", "universe": "Population", "dataset": 7, "stat_type": "number", "description": "Population by corruption_police", "fields": "[\"corruption_police\"]", "denominator_key": null, "has_total": true, "value_type": "Integer"}}, {"model": "wazimap.fieldtable", "pk": 81, "fields": {"name": "NEGATIVE_IMAGE_OF_CHINA", "universe": "Population", "dataset": 7, "stat_type": "number", "description": "Population by negative_image_of_china", "fields": "[\"negative_image_of_china\"]", "denominator_key": null, "has_total": true, "value_type": "Integer"}}, {"model": "wazimap.fieldtable", "pk": 82, "fields": {"name": "OWN_RADIO", "universe": "Population", "dataset": 7, "stat_type": "number", "description": "Population by own_radio", "fields": "[\"own_radio\"]", "denominator_key": null, "has_total": true, "value_type": "Integer"}}, {"model": "wazimap.fieldtable", "pk": 83, "fields": {"name": "PEOPLE_MUST_PAY_TAXES", "universe": "Population", "dataset": 7, "stat_type": "number", "description": "Population by people_must_pay_taxes", "fields": "[\"people_must_pay_taxes\"]", "denominator_key": null, "has_total": true, "value_type": "Integer"}}, {"model": "wazimap.fieldtable", "pk": 84, "fields": {"name": "COURTS_MAKE_BINDING_DECISIONS", "universe": "Population", "dataset": 7, "stat_type": "number", "description": "Population by courts_make_binding_decisions", "fields": "[\"courts_make_binding_decisions\"]", "denominator_key": null, "has_total": true, "value_type": "Integer"}}, {"model": "wazimap.fieldtable", "pk": 85, "fields": {"name": "EMPLOYER_OF_RESPONDENT", "universe": "Population", "dataset": 7, "stat_type": "number", "description": "Population by employer_of_respondent", "fields": "[\"employer_of_respondent\"]", "denominator_key": null, "has_total": true, "value_type": "Integer"}}, {"model": "wazimap.fieldtable", "pk": 86, "fields": {"name": "HOW_OFTEN_USE_A_MOBILE_PHONE", "universe": "Population", "dataset": 7, "stat_type": "number", "description": "Population by how_often_use_a_mobile_phone", "fields": "[\"how_often_use_a_mobile_phone\"]", "denominator_key": null, "has_total": true, "value_type": "Integer"}}, {"model": "wazimap.fieldtable", "pk": 87, "fields": {"name": "OWN_MOTOR_VEHICLE", "universe": "Population", "dataset": 7, "stat_type": "number", "description": "Population by own_motor_vehicle", "fields": "[\"own_motor_vehicle\"]", "denominator_key": null, "has_total": true, "value_type": "Integer"}}, {"model": "wazimap.fieldtablerelease", "pk": 1, "fields": {"data_table": 1, "db_table": 1, "release": 1}}, {"model": "wazimap.fieldtablerelease", "pk": 2, "fields": {"data_table": 2, "db_table": 2, "release": 2}}, {"model": "wazimap.fieldtablerelease", "pk": 3, "fields": {"data_table": 3, "db_table": 3, "release": 3}}, {"model": "wazimap.fieldtablerelease", "pk": 4, "fields": {"data_table": 4, "db_table": 4, "release": 3}}, {"model": "wazimap.fieldtablerelease", "pk": 5, "fields": {"data_table": 5, "db_table": 5, "release": 3}}, {"model": "wazimap.fieldtablerelease", "pk": 6, "fields": {"data_table": 6, "db_table": 6, "release": 3}}, {"model": "wazimap.fieldtablerelease", "pk": 7, "fields": {"data_table": 7, "db_table": 7, "release": 4}}, {"model": "wazimap.fieldtablerelease", "pk": 8, "fields": {"data_table": 8, "db_table": 8, "release": 3}}, {"model": "wazimap.fieldtablerelease", "pk": 9, "fields": {"data_table": 9, "db_table": 9, "release": 1}}, {"model": "wazimap.fieldtablerelease", "pk": 10, "fields": {"data_table": 10, "db_table": 10, "release": 3}}, {"model": "wazimap.fieldtablerelease", "pk": 11, "fields": {"data_table": 11, "db_table": 11, "release": 1}}, {"model": "wazimap.fieldtablerelease", "pk": 12, "fields": {"data_table": 12, "db_table": 12, "release": 5}}, {"model": "wazimap.fieldtablerelease", "pk": 13, "fields": {"data_table": 13, "db_table": 13, "release": 6}}, {"model": "wazimap.fieldtablerelease", "pk": 14, "fields": {"data_table": 14, "db_table": 14, "release": 7}}, {"model": "wazimap.fieldtablerelease", "pk": 15, "fields": {"data_table": 15, "db_table": 15, "release": 1}}, {"model": "wazimap.fieldtablerelease", "pk": 16, "fields": {"data_table": 16, "db_table": 16, "release": 8}}, {"model": "wazimap.fieldtablerelease", "pk": 17, "fields": {"data_table": 17, "db_table": 17, "release": 1}}, {"model": "wazimap.fieldtablerelease", "pk": 18, "fields": {"data_table": 18, "db_table": 18, "release": 3}}, {"model": "wazimap.fieldtablerelease", "pk": 19, "fields": {"data_table": 19, "db_table": 19, "release": 1}}, {"model": "wazimap.fieldtablerelease", "pk": 20, "fields": {"data_table": 20, "db_table": 20, "release": 3}}, {"model": "wazimap.fieldtablerelease", "pk": 21, "fields": {"data_table": 21, "db_table": 21, "release": 8}}, {"model": "wazimap.fieldtablerelease", "pk": 22, "fields": {"data_table": 22, "db_table": 22, "release": 1}}, {"model": "wazimap.fieldtablerelease", "pk": 23, "fields": {"data_table": 23, "db_table": 23, "release": 3}}, {"model": "wazimap.fieldtablerelease", "pk": 24, "fields": {"data_table": 24, "db_table": 24, "release": 3}}, {"model": "wazimap.fieldtablerelease", "pk": 25, "fields": {"data_table": 25, "db_table": 25, "release": 1}}, {"model": "wazimap.fieldtablerelease", "pk": 26, "fields": {"data_table": 26, "db_table": 26, "release": 3}}, {"model": "wazimap.fieldtablerelease", "pk": 27, "fields": {"data_table": 27, "db_table": 27, "release": 1}}, {"model": "wazimap.fieldtablerelease", "pk": 28, "fields": {"data_table": 28, "db_table": 28, "release": 8}}, {"model": "wazimap.fieldtablerelease", "pk": 29, "fields": {"data_table": 29, "db_table": 29, "release": 1}}, {"model": "wazimap.fieldtablerelease", "pk": 30, "fields": {"data_table": 30, "db_table": 30, "release": 3}}, {"model": "wazimap.fieldtablerelease", "pk": 31, "fields": {"data_table": 31, "db_table": 31, "release": 1}}, {"model": "wazimap.fieldtablerelease", "pk": 32, "fields": {"data_table": 32, "db_table": 32, "release": 3}}, {"model": "wazimap.fieldtablerelease", "pk": 33, "fields": {"data_table": 33, "db_table": 33, "release": 7}}, {"model": "wazimap.fieldtablerelease", "pk": 34, "fields": {"data_table": 34, "db_table": 34, "release": 1}}, {"model": "wazimap.fieldtablerelease", "pk": 35, "fields": {"data_table": 35, "db_table": 35, "release": 9}}, {"model": "wazimap.fieldtablerelease", "pk": 36, "fields": {"data_table": 36, "db_table": 36, "release": 3}}, {"model": "wazimap.fieldtablerelease", "pk": 37, "fields": {"data_table": 37, "db_table": 37, "release": 3}}, {"model": "wazimap.fieldtablerelease", "pk": 38, "fields": {"data_table": 38, "db_table": 38, "release": 10}}, {"model": "wazimap.fieldtablerelease", "pk": 39, "fields": {"data_table": 39, "db_table": 39, "release": 10}}, {"model": "wazimap.fieldtablerelease", "pk": 40, "fields": {"data_table": 40, "db_table": 40, "release": 10}}, {"model": "wazimap.fieldtablerelease", "pk": 41, "fields": {"data_table": 41, "db_table": 41, "release": 10}}, {"model": "wazimap.fieldtablerelease", "pk": 42, "fields": {"data_table": 42, "db_table": 42, "release": 10}}, {"model": "wazimap.fieldtablerelease", "pk": 43, "fields": {"data_table": 43, "db_table": 43, "release": 10}}, {"model": "wazimap.fieldtablerelease", "pk": 44, "fields": {"data_table": 44, "db_table": 44, "release": 10}}, {"model": "wazimap.fieldtablerelease", "pk": 45, "fields": {"data_table": 45, "db_table": 45, "release": 10}}, {"model": "wazimap.fieldtablerelease", "pk": 46, "fields": {"data_table": 46, "db_table": 46, "release": 10}}, {"model": "wazimap.fieldtablerelease", "pk": 47, "fields": {"data_table": 47, "db_table": 47, "release": 10}}, {"model": "wazimap.fieldtablerelease", "pk": 48, "fields": {"data_table": 48, "db_table": 48, "release": 10}}, {"model": "wazimap.fieldtablerelease", "pk": 49, "fields": {"data_table": 49, "db_table": 49, "release": 10}}, {"model": "wazimap.fieldtablerelease", "pk": 50, "fields": {"data_table": 50, "db_table": 50, "release": 10}}, {"model": "wazimap.fieldtablerelease", "pk": 51, "fields": {"data_table": 51, "db_table": 51, "release": 10}}, {"model": "wazimap.fieldtablerelease", "pk": 52, "fields": {"data_table": 52, "db_table": 52, "release": 10}}, {"model": "wazimap.fieldtablerelease", "pk": 53, "fields": {"data_table": 53, "db_table": 53, "release": 10}}, {"model": "wazimap.fieldtablerelease", "pk": 54, "fields": {"data_table": 54, "db_table": 54, "release": 10}}, {"model": "wazimap.fieldtablerelease", "pk": 55, "fields": {"data_table": 55, "db_table": 55, "release": 10}}, {"model": "wazimap.fieldtablerelease", "pk": 56, "fields": {"data_table": 56, "db_table": 56, "release": 10}}, {"model": "wazimap.fieldtablerelease", "pk": 57, "fields": {"data_table": 57, "db_table": 57, "release": 10}}, {"model": "wazimap.fieldtablerelease", "pk": 58, "fields": {"data_table": 58, "db_table": 58, "release": 10}}, {"model": "wazimap.fieldtablerelease", "pk": 59, "fields": {"data_table": 59, "db_table": 59, "release": 10}}, {"model": "wazimap.fieldtablerelease", "pk": 60, "fields": {"data_table": 60, "db_table": 60, "release": 10}}, {"model": "wazimap.fieldtablerelease", "pk": 61, "fields": {"data_table": 61, "db_table": 61, "release": 10}}, {"model": "wazimap.fieldtablerelease", "pk": 62, "fields": {"data_table": 62, "db_table": 62, "release": 10}}, {"model": "wazimap.fieldtablerelease", "pk": 63, "fields": {"data_table": 63, "db_table": 63, "release": 10}}, {"model": "wazimap.fieldtablerelease", "pk": 64, "fields": {"data_table": 64, "db_table": 64, "release": 10}}, {"model": "wazimap.fieldtablerelease", "pk": 65, "fields": {"data_table": 65, "db_table": 65, "release": 10}}, {"model": "wazimap.fieldtablerelease", "pk": 66, "fields": {"data_table": 66, "db_table": 66, "release": 10}}, {"model": "wazimap.fieldtablerelease", "pk": 67, "fields": {"data_table": 67, "db_table": 67, "release": 10}}, {"model": "wazimap.fieldtablerelease", "pk": 68, "fields": {"data_table": 68, "db_table": 68, "release": 10}}, {"model": "wazimap.fieldtablerelease", "pk": 69, "fields": {"data_table": 69, "db_table": 69, "release": 10}}, {"model": "wazimap.fieldtablerelease", "pk": 70, "fields": {"data_table": 70, "db_table": 70, "release": 10}}, {"model": "wazimap.fieldtablerelease", "pk": 71, "fields": {"data_table": 71, "db_table": 71, "release": 10}}, {"model": "wazimap.fieldtablerelease", "pk": 72, "fields": {"data_table": 72, "db_table": 72, "release": 10}}, {"model": "wazimap.fieldtablerelease", "pk": 73, "fields": {"data_table": 73, "db_table": 73, "release": 10}}, {"model": "wazimap.fieldtablerelease", "pk": 74, "fields": {"data_table": 74, "db_table": 74, "release": 10}}, {"model": "wazimap.fieldtablerelease", "pk": 75, "fields": {"data_table": 75, "db_table": 75, "release": 10}}, {"model": "wazimap.fieldtablerelease", "pk": 76, "fields": {"data_table": 76, "db_table": 76, "release": 10}}, {"model": "wazimap.fieldtablerelease", "pk": 77, "fields": {"data_table": 77, "db_table": 77, "release": 10}}, {"model": "wazimap.fieldtablerelease", "pk": 78, "fields": {"data_table": 78, "db_table": 78, "release": 10}}, {"model": "wazimap.fieldtablerelease", "pk": 79, "fields": {"data_table": 79, "db_table": 79, "release": 10}}, {"model": "wazimap.fieldtablerelease", "pk": 80, "fields": {"data_table": 80, "db_table": 80, "release": 10}}, {"model": "wazimap.fieldtablerelease", "pk": 81, "fields": {"data_table": 81, "db_table": 81, "release": 10}}, {"model": "wazimap.fieldtablerelease", "pk": 82, "fields": {"data_table": 82, "db_table": 82, "release": 10}}, {"model": "wazimap.fieldtablerelease", "pk": 83, "fields": {"data_table": 83, "db_table": 83, "release": 10}}, {"model": "wazimap.fieldtablerelease", "pk": 84, "fields": {"data_table": 84, "db_table": 84, "release": 10}}, {"model": "wazimap.fieldtablerelease", "pk": 85, "fields": {"data_table": 85, "db_table": 85, "release": 10}}, {"model": "wazimap.fieldtablerelease", "pk": 86, "fields": {"data_table": 86, "db_table": 86, "release": 10}}, {"model": "wazimap.fieldtablerelease", "pk": 87, "fields": {"data_table": 87, "db_table": 87, "release": 10}}]
+[
+  {
+    "model": "wazimap.geography",
+    "pk": 2,
+    "fields": {
+      "geo_level": "country",
+      "geo_code": "KE",
+      "version": "2009",
+      "name": "Kenya",
+      "long_name": null,
+      "square_kms": 581309.0,
+      "parent_level": null,
+      "parent_code": null
+    }
+  },
+  {
+    "model": "wazimap.geography",
+    "pk": 3,
+    "fields": {
+      "geo_level": "county",
+      "geo_code": "1",
+      "version": "2009",
+      "name": "Mombasa",
+      "long_name": null,
+      "square_kms": 212.5,
+      "parent_level": "country",
+      "parent_code": "KE"
+    }
+  },
+  {
+    "model": "wazimap.geography",
+    "pk": 4,
+    "fields": {
+      "geo_level": "county",
+      "geo_code": "2",
+      "version": "2009",
+      "name": "Kwale",
+      "long_name": null,
+      "square_kms": 8270.3,
+      "parent_level": "country",
+      "parent_code": "KE"
+    }
+  },
+  {
+    "model": "wazimap.geography",
+    "pk": 5,
+    "fields": {
+      "geo_level": "county",
+      "geo_code": "3",
+      "version": "2009",
+      "name": "Kilifi",
+      "long_name": null,
+      "square_kms": 12245.9,
+      "parent_level": "country",
+      "parent_code": "KE"
+    }
+  },
+  {
+    "model": "wazimap.geography",
+    "pk": 6,
+    "fields": {
+      "geo_level": "county",
+      "geo_code": "4",
+      "version": "2009",
+      "name": "Tana River",
+      "long_name": null,
+      "square_kms": 35375.8,
+      "parent_level": "country",
+      "parent_code": "KE"
+    }
+  },
+  {
+    "model": "wazimap.geography",
+    "pk": 7,
+    "fields": {
+      "geo_level": "county",
+      "geo_code": "5",
+      "version": "2009",
+      "name": "Lamu",
+      "long_name": null,
+      "square_kms": 6497.7,
+      "parent_level": "country",
+      "parent_code": "KE"
+    }
+  },
+  {
+    "model": "wazimap.geography",
+    "pk": 8,
+    "fields": {
+      "geo_level": "county",
+      "geo_code": "6",
+      "version": "2009",
+      "name": "Taita-Taveta",
+      "long_name": null,
+      "square_kms": 17083.9,
+      "parent_level": "country",
+      "parent_code": "KE"
+    }
+  },
+  {
+    "model": "wazimap.geography",
+    "pk": 9,
+    "fields": {
+      "geo_level": "county",
+      "geo_code": "7",
+      "version": "2009",
+      "name": "Garissa",
+      "long_name": null,
+      "square_kms": 45720.2,
+      "parent_level": "country",
+      "parent_code": "KE"
+    }
+  },
+  {
+    "model": "wazimap.geography",
+    "pk": 10,
+    "fields": {
+      "geo_level": "county",
+      "geo_code": "8",
+      "version": "2009",
+      "name": "Wajir",
+      "long_name": null,
+      "square_kms": 55840.6,
+      "parent_level": "country",
+      "parent_code": "KE"
+    }
+  },
+  {
+    "model": "wazimap.geography",
+    "pk": 11,
+    "fields": {
+      "geo_level": "county",
+      "geo_code": "9",
+      "version": "2009",
+      "name": "Mandera",
+      "long_name": null,
+      "square_kms": 25797.7,
+      "parent_level": "country",
+      "parent_code": "KE"
+    }
+  },
+  {
+    "model": "wazimap.geography",
+    "pk": 12,
+    "fields": {
+      "geo_level": "county",
+      "geo_code": "10",
+      "version": "2009",
+      "name": "Marsabit",
+      "long_name": null,
+      "square_kms": 66923.1,
+      "parent_level": "country",
+      "parent_code": "KE"
+    }
+  },
+  {
+    "model": "wazimap.geography",
+    "pk": 13,
+    "fields": {
+      "geo_level": "county",
+      "geo_code": "11",
+      "version": "2009",
+      "name": "Isiolo",
+      "long_name": null,
+      "square_kms": 25336.1,
+      "parent_level": "country",
+      "parent_code": "KE"
+    }
+  },
+  {
+    "model": "wazimap.geography",
+    "pk": 14,
+    "fields": {
+      "geo_level": "county",
+      "geo_code": "12",
+      "version": "2009",
+      "name": "Meru",
+      "long_name": null,
+      "square_kms": 6930.1,
+      "parent_level": "country",
+      "parent_code": "KE"
+    }
+  },
+  {
+    "model": "wazimap.geography",
+    "pk": 15,
+    "fields": {
+      "geo_level": "county",
+      "geo_code": "13",
+      "version": "2009",
+      "name": "Tharaka-Nithi",
+      "long_name": null,
+      "square_kms": 2409.5,
+      "parent_level": "country",
+      "parent_code": "KE"
+    }
+  },
+  {
+    "model": "wazimap.geography",
+    "pk": 16,
+    "fields": {
+      "geo_level": "county",
+      "geo_code": "14",
+      "version": "2009",
+      "name": "Embu",
+      "long_name": null,
+      "square_kms": 2555.9,
+      "parent_level": "country",
+      "parent_code": "KE"
+    }
+  },
+  {
+    "model": "wazimap.geography",
+    "pk": 17,
+    "fields": {
+      "geo_level": "county",
+      "geo_code": "15",
+      "version": "2009",
+      "name": "Kitui",
+      "long_name": null,
+      "square_kms": 24385.1,
+      "parent_level": "country",
+      "parent_code": "KE"
+    }
+  },
+  {
+    "model": "wazimap.geography",
+    "pk": 18,
+    "fields": {
+      "geo_level": "county",
+      "geo_code": "16",
+      "version": "2009",
+      "name": "Machakos",
+      "long_name": null,
+      "square_kms": 5952.9,
+      "parent_level": "country",
+      "parent_code": "KE"
+    }
+  },
+  {
+    "model": "wazimap.geography",
+    "pk": 19,
+    "fields": {
+      "geo_level": "county",
+      "geo_code": "17",
+      "version": "2009",
+      "name": "Makueni",
+      "long_name": null,
+      "square_kms": 8008.9,
+      "parent_level": "country",
+      "parent_code": "KE"
+    }
+  },
+  {
+    "model": "wazimap.geography",
+    "pk": 20,
+    "fields": {
+      "geo_level": "county",
+      "geo_code": "18",
+      "version": "2009",
+      "name": "Nyandarua",
+      "long_name": null,
+      "square_kms": 3107.7,
+      "parent_level": "country",
+      "parent_code": "KE"
+    }
+  },
+  {
+    "model": "wazimap.geography",
+    "pk": 21,
+    "fields": {
+      "geo_level": "county",
+      "geo_code": "19",
+      "version": "2009",
+      "name": "Nyeri",
+      "long_name": null,
+      "square_kms": 2361.0,
+      "parent_level": "country",
+      "parent_code": "KE"
+    }
+  },
+  {
+    "model": "wazimap.geography",
+    "pk": 22,
+    "fields": {
+      "geo_level": "county",
+      "geo_code": "20",
+      "version": "2009",
+      "name": "Kirinyaga",
+      "long_name": null,
+      "square_kms": 1205.4,
+      "parent_level": "country",
+      "parent_code": "KE"
+    }
+  },
+  {
+    "model": "wazimap.geography",
+    "pk": 23,
+    "fields": {
+      "geo_level": "county",
+      "geo_code": "21",
+      "version": "2009",
+      "name": "Murang'a",
+      "long_name": null,
+      "square_kms": 2325.8,
+      "parent_level": "country",
+      "parent_code": "KE"
+    }
+  },
+  {
+    "model": "wazimap.geography",
+    "pk": 24,
+    "fields": {
+      "geo_level": "county",
+      "geo_code": "22",
+      "version": "2009",
+      "name": "Kiambu",
+      "long_name": null,
+      "square_kms": 2449.2,
+      "parent_level": "country",
+      "parent_code": "KE"
+    }
+  },
+  {
+    "model": "wazimap.geography",
+    "pk": 25,
+    "fields": {
+      "geo_level": "county",
+      "geo_code": "23",
+      "version": "2009",
+      "name": "Turkana",
+      "long_name": null,
+      "square_kms": 71597.8,
+      "parent_level": "country",
+      "parent_code": "KE"
+    }
+  },
+  {
+    "model": "wazimap.geography",
+    "pk": 26,
+    "fields": {
+      "geo_level": "county",
+      "geo_code": "24",
+      "version": "2009",
+      "name": "West Pokot",
+      "long_name": null,
+      "square_kms": 8418.2,
+      "parent_level": "country",
+      "parent_code": "KE"
+    }
+  },
+  {
+    "model": "wazimap.geography",
+    "pk": 27,
+    "fields": {
+      "geo_level": "county",
+      "geo_code": "25",
+      "version": "2009",
+      "name": "Samburu",
+      "long_name": null,
+      "square_kms": 20182.5,
+      "parent_level": "country",
+      "parent_code": "KE"
+    }
+  },
+  {
+    "model": "wazimap.geography",
+    "pk": 28,
+    "fields": {
+      "geo_level": "county",
+      "geo_code": "26",
+      "version": "2009",
+      "name": "Trans-Nzoia",
+      "long_name": null,
+      "square_kms": 2469.9,
+      "parent_level": "country",
+      "parent_code": "KE"
+    }
+  },
+  {
+    "model": "wazimap.geography",
+    "pk": 29,
+    "fields": {
+      "geo_level": "county",
+      "geo_code": "27",
+      "version": "2009",
+      "name": "Uasin Gishu",
+      "long_name": null,
+      "square_kms": 2955.3,
+      "parent_level": "country",
+      "parent_code": "KE"
+    }
+  },
+  {
+    "model": "wazimap.geography",
+    "pk": 30,
+    "fields": {
+      "geo_level": "county",
+      "geo_code": "28",
+      "version": "2009",
+      "name": "Elgeyo-Marakwet",
+      "long_name": null,
+      "square_kms": 3049.7,
+      "parent_level": "country",
+      "parent_code": "KE"
+    }
+  },
+  {
+    "model": "wazimap.geography",
+    "pk": 31,
+    "fields": {
+      "geo_level": "county",
+      "geo_code": "29",
+      "version": "2009",
+      "name": "Nandi",
+      "long_name": null,
+      "square_kms": 2884.5,
+      "parent_level": "country",
+      "parent_code": "KE"
+    }
+  },
+  {
+    "model": "wazimap.geography",
+    "pk": 32,
+    "fields": {
+      "geo_level": "county",
+      "geo_code": "30",
+      "version": "2009",
+      "name": "Baringo",
+      "long_name": null,
+      "square_kms": 11075.3,
+      "parent_level": "country",
+      "parent_code": "KE"
+    }
+  },
+  {
+    "model": "wazimap.geography",
+    "pk": 33,
+    "fields": {
+      "geo_level": "county",
+      "geo_code": "31",
+      "version": "2009",
+      "name": "Laikipia",
+      "long_name": null,
+      "square_kms": 8696.1,
+      "parent_level": "country",
+      "parent_code": "KE"
+    }
+  },
+  {
+    "model": "wazimap.geography",
+    "pk": 34,
+    "fields": {
+      "geo_level": "county",
+      "geo_code": "32",
+      "version": "2009",
+      "name": "Nakuru",
+      "long_name": null,
+      "square_kms": 7509.5,
+      "parent_level": "country",
+      "parent_code": "KE"
+    }
+  },
+  {
+    "model": "wazimap.geography",
+    "pk": 35,
+    "fields": {
+      "geo_level": "county",
+      "geo_code": "33",
+      "version": "2009",
+      "name": "Narok",
+      "long_name": null,
+      "square_kms": 17921.2,
+      "parent_level": "country",
+      "parent_code": "KE"
+    }
+  },
+  {
+    "model": "wazimap.geography",
+    "pk": 36,
+    "fields": {
+      "geo_level": "county",
+      "geo_code": "34",
+      "version": "2009",
+      "name": "Kajiado",
+      "long_name": null,
+      "square_kms": 21292.7,
+      "parent_level": "country",
+      "parent_code": "KE"
+    }
+  },
+  {
+    "model": "wazimap.geography",
+    "pk": 37,
+    "fields": {
+      "geo_level": "county",
+      "geo_code": "35",
+      "version": "2009",
+      "name": "Kericho",
+      "long_name": null,
+      "square_kms": 2454.5,
+      "parent_level": "country",
+      "parent_code": "KE"
+    }
+  },
+  {
+    "model": "wazimap.geography",
+    "pk": 38,
+    "fields": {
+      "geo_level": "county",
+      "geo_code": "36",
+      "version": "2009",
+      "name": "Bomet",
+      "long_name": null,
+      "square_kms": 1997.9,
+      "parent_level": "country",
+      "parent_code": "KE"
+    }
+  },
+  {
+    "model": "wazimap.geography",
+    "pk": 39,
+    "fields": {
+      "geo_level": "county",
+      "geo_code": "37",
+      "version": "2009",
+      "name": "Kakamega",
+      "long_name": null,
+      "square_kms": 3033.8,
+      "parent_level": "country",
+      "parent_code": "KE"
+    }
+  },
+  {
+    "model": "wazimap.geography",
+    "pk": 40,
+    "fields": {
+      "geo_level": "county",
+      "geo_code": "38",
+      "version": "2009",
+      "name": "Vihiga",
+      "long_name": null,
+      "square_kms": 531.3,
+      "parent_level": "country",
+      "parent_code": "KE"
+    }
+  },
+  {
+    "model": "wazimap.geography",
+    "pk": 41,
+    "fields": {
+      "geo_level": "county",
+      "geo_code": "39",
+      "version": "2009",
+      "name": "Bungoma",
+      "long_name": null,
+      "square_kms": 2206.9,
+      "parent_level": "country",
+      "parent_code": "KE"
+    }
+  },
+  {
+    "model": "wazimap.geography",
+    "pk": 42,
+    "fields": {
+      "geo_level": "county",
+      "geo_code": "40",
+      "version": "2009",
+      "name": "Busia",
+      "long_name": null,
+      "square_kms": 1628.4,
+      "parent_level": "country",
+      "parent_code": "KE"
+    }
+  },
+  {
+    "model": "wazimap.geography",
+    "pk": 43,
+    "fields": {
+      "geo_level": "county",
+      "geo_code": "41",
+      "version": "2009",
+      "name": "Siaya",
+      "long_name": null,
+      "square_kms": 2496.1,
+      "parent_level": "country",
+      "parent_code": "KE"
+    }
+  },
+  {
+    "model": "wazimap.geography",
+    "pk": 44,
+    "fields": {
+      "geo_level": "county",
+      "geo_code": "42",
+      "version": "2009",
+      "name": "Kisumu",
+      "long_name": null,
+      "square_kms": 2009.5,
+      "parent_level": "country",
+      "parent_code": "KE"
+    }
+  },
+  {
+    "model": "wazimap.geography",
+    "pk": 45,
+    "fields": {
+      "geo_level": "county",
+      "geo_code": "43",
+      "version": "2009",
+      "name": "Homa Bay",
+      "long_name": null,
+      "square_kms": 3154.7,
+      "parent_level": "country",
+      "parent_code": "KE"
+    }
+  },
+  {
+    "model": "wazimap.geography",
+    "pk": 46,
+    "fields": {
+      "geo_level": "county",
+      "geo_code": "44",
+      "version": "2009",
+      "name": "Migori",
+      "long_name": null,
+      "square_kms": 2586.4,
+      "parent_level": "country",
+      "parent_code": "KE"
+    }
+  },
+  {
+    "model": "wazimap.geography",
+    "pk": 47,
+    "fields": {
+      "geo_level": "county",
+      "geo_code": "45",
+      "version": "2009",
+      "name": "Kisii",
+      "long_name": null,
+      "square_kms": 1317.9,
+      "parent_level": "country",
+      "parent_code": "KE"
+    }
+  },
+  {
+    "model": "wazimap.geography",
+    "pk": 48,
+    "fields": {
+      "geo_level": "county",
+      "geo_code": "46",
+      "version": "2009",
+      "name": "Nyamira",
+      "long_name": null,
+      "square_kms": 912.5,
+      "parent_level": "country",
+      "parent_code": "KE"
+    }
+  },
+  {
+    "model": "wazimap.geography",
+    "pk": 49,
+    "fields": {
+      "geo_level": "county",
+      "geo_code": "47",
+      "version": "2009",
+      "name": "Nairobi",
+      "long_name": null,
+      "square_kms": 694.9,
+      "parent_level": "country",
+      "parent_code": "KE"
+    }
+  },
+  {
+    "model": "wazimap.dataset",
+    "pk": 1,
+    "fields": {
+      "name": "Census"
+    }
+  },
+  {
+    "model": "wazimap.dataset",
+    "pk": 2,
+    "fields": {
+      "name": "Annual Crimes Report"
+    }
+  },
+  {
+    "model": "wazimap.dataset",
+    "pk": 3,
+    "fields": {
+      "name": "KNBS Demographic and Health Survey"
+    }
+  },
+  {
+    "model": "wazimap.dataset",
+    "pk": 4,
+    "fields": {
+      "name": "Census 2011"
+    }
+  },
+  {
+    "model": "wazimap.dataset",
+    "pk": 5,
+    "fields": {
+      "name": "Voter Registration"
+    }
+  },
+  {
+    "model": "wazimap.dataset",
+    "pk": 6,
+    "fields": {
+      "name": "Crop production and Livestock"
+    }
+  },
+  {
+    "model": "wazimap.dataset",
+    "pk": 7,
+    "fields": {
+      "name": "Afrobarometer Survey"
+    }
+  },
+  {
+    "model": "wazimap.dataset",
+    "pk": 8,
+    "fields": {
+      "name": "Women and Men in Kenya"
+    }
+  },
+  {
+    "model": "wazimap.release",
+    "pk": 1,
+    "fields": {
+      "name": "Census",
+      "year": "2009",
+      "citation": null,
+      "dataset": 1
+    }
+  },
+  {
+    "model": "wazimap.release",
+    "pk": 2,
+    "fields": {
+      "name": "Annual Crimes Report",
+      "year": "2014",
+      "citation": null,
+      "dataset": 2
+    }
+  },
+  {
+    "model": "wazimap.release",
+    "pk": 3,
+    "fields": {
+      "name": "KNBS Demographic and Health Survey",
+      "year": "2014",
+      "citation": null,
+      "dataset": 3
+    }
+  },
+  {
+    "model": "wazimap.release",
+    "pk": 4,
+    "fields": {
+      "name": "Census 2011",
+      "year": "2014",
+      "citation": null,
+      "dataset": 4
+    }
+  },
+  {
+    "model": "wazimap.release",
+    "pk": 5,
+    "fields": {
+      "name": "Voter Registration",
+      "year": "2017",
+      "citation": null,
+      "dataset": 5
+    }
+  },
+  {
+    "model": "wazimap.release",
+    "pk": 6,
+    "fields": {
+      "name": "Voter Registration",
+      "year": "2015",
+      "citation": "",
+      "dataset": 5
+    }
+  },
+  {
+    "model": "wazimap.release",
+    "pk": 7,
+    "fields": {
+      "name": "Annual Crimes Report",
+      "year": "2015",
+      "citation": null,
+      "dataset": 2
+    }
+  },
+  {
+    "model": "wazimap.release",
+    "pk": 8,
+    "fields": {
+      "name": "Crop production and Livestock",
+      "year": "2014",
+      "citation": null,
+      "dataset": 6
+    }
+  },
+  {
+    "model": "wazimap.release",
+    "pk": 9,
+    "fields": {
+      "name": "Annual Crimes Report",
+      "year": "2016",
+      "citation": null,
+      "dataset": 2
+    }
+  },
+  {
+    "model": "wazimap.release",
+    "pk": 10,
+    "fields": {
+      "name": "Afrobarometer Survey",
+      "year": "2016",
+      "citation": null,
+      "dataset": 7
+    }
+  },
+  {
+    "model": "wazimap.release",
+    "pk": 11,
+    "fields": {
+      "name": "Women and Men in Kenya",
+      "year": "2017",
+      "citation": null,
+      "dataset": 8
+    }
+  },
+  {
+    "model": "wazimap.dbtable",
+    "pk": 1,
+    "fields": {
+      "name": "maintypeofwallmaterial"
+    }
+  },
+  {
+    "model": "wazimap.dbtable",
+    "pk": 2,
+    "fields": {
+      "name": "protests"
+    }
+  },
+  {
+    "model": "wazimap.dbtable",
+    "pk": 3,
+    "fields": {
+      "name": "household_itn_use_users"
+    }
+  },
+  {
+    "model": "wazimap.dbtable",
+    "pk": 4,
+    "fields": {
+      "name": "useofipt"
+    }
+  },
+  {
+    "model": "wazimap.dbtable",
+    "pk": 5,
+    "fields": {
+      "name": "treatment_type"
+    }
+  },
+  {
+    "model": "wazimap.dbtable",
+    "pk": 6,
+    "fields": {
+      "name": "householdpossessionofitn"
+    }
+  },
+  {
+    "model": "wazimap.dbtable",
+    "pk": 7,
+    "fields": {
+      "name": "contraceptive_use"
+    }
+  },
+  {
+    "model": "wazimap.dbtable",
+    "pk": 8,
+    "fields": {
+      "name": "fertility"
+    }
+  },
+  {
+    "model": "wazimap.dbtable",
+    "pk": 9,
+    "fields": {
+      "name": "maintypeofroofingmaterial"
+    }
+  },
+  {
+    "model": "wazimap.dbtable",
+    "pk": 10,
+    "fields": {
+      "name": "healthratios"
+    }
+  },
+  {
+    "model": "wazimap.dbtable",
+    "pk": 11,
+    "fields": {
+      "name": "maintypeoflightingfuel"
+    }
+  },
+  {
+    "model": "wazimap.dbtable",
+    "pk": 12,
+    "fields": {
+      "name": "voterregistration_2017"
+    }
+  },
+  {
+    "model": "wazimap.dbtable",
+    "pk": 13,
+    "fields": {
+      "name": "voterregistration_2015"
+    }
+  },
+  {
+    "model": "wazimap.dbtable",
+    "pk": 14,
+    "fields": {
+      "name": "crimereport"
+    }
+  },
+  {
+    "model": "wazimap.dbtable",
+    "pk": 15,
+    "fields": {
+      "name": "religion"
+    }
+  },
+  {
+    "model": "wazimap.dbtable",
+    "pk": 16,
+    "fields": {
+      "name": "crop_production"
+    }
+  },
+  {
+    "model": "wazimap.dbtable",
+    "pk": 17,
+    "fields": {
+      "name": "mainsourceofwater"
+    }
+  },
+  {
+    "model": "wazimap.dbtable",
+    "pk": 18,
+    "fields": {
+      "name": "heightforage"
+    }
+  },
+  {
+    "model": "wazimap.dbtable",
+    "pk": 19,
+    "fields": {
+      "name": "schoolattendance_sex"
+    }
+  },
+  {
+    "model": "wazimap.dbtable",
+    "pk": 20,
+    "fields": {
+      "name": "treatmentofchildrenwithfever"
+    }
+  },
+  {
+    "model": "wazimap.dbtable",
+    "pk": 21,
+    "fields": {
+      "name": "livestock_population"
+    }
+  },
+  {
+    "model": "wazimap.dbtable",
+    "pk": 22,
+    "fields": {
+      "name": "highesteducationlevelreached"
+    }
+  },
+  {
+    "model": "wazimap.dbtable",
+    "pk": 23,
+    "fields": {
+      "name": "contraceptive_traditional_method"
+    }
+  },
+  {
+    "model": "wazimap.dbtable",
+    "pk": 24,
+    "fields": {
+      "name": "knowledgeofhivpreventionmethods_sex"
+    }
+  },
+  {
+    "model": "wazimap.dbtable",
+    "pk": 25,
+    "fields": {
+      "name": "maintypeoffloormaterial"
+    }
+  },
+  {
+    "model": "wazimap.dbtable",
+    "pk": 26,
+    "fields": {
+      "name": "weightforage"
+    }
+  },
+  {
+    "model": "wazimap.dbtable",
+    "pk": 27,
+    "fields": {
+      "name": "mainmodeofhumanwastedisposal"
+    }
+  },
+  {
+    "model": "wazimap.dbtable",
+    "pk": 28,
+    "fields": {
+      "name": "livestock_products"
+    }
+  },
+  {
+    "model": "wazimap.dbtable",
+    "pk": 29,
+    "fields": {
+      "name": "ageincompletedyears_ruralorurban_sex"
+    }
+  },
+  {
+    "model": "wazimap.dbtable",
+    "pk": 30,
+    "fields": {
+      "name": "vaccinations"
+    }
+  },
+  {
+    "model": "wazimap.dbtable",
+    "pk": 31,
+    "fields": {
+      "name": "household_heads"
+    }
+  },
+  {
+    "model": "wazimap.dbtable",
+    "pk": 32,
+    "fields": {
+      "name": "maternalcareindicators"
+    }
+  },
+  {
+    "model": "wazimap.dbtable",
+    "pk": 33,
+    "fields": {
+      "name": "typesofcrime"
+    }
+  },
+  {
+    "model": "wazimap.dbtable",
+    "pk": 34,
+    "fields": {
+      "name": "employmentactivitystatus_sex"
+    }
+  },
+  {
+    "model": "wazimap.dbtable",
+    "pk": 35,
+    "fields": {
+      "name": "schoolfires"
+    }
+  },
+  {
+    "model": "wazimap.dbtable",
+    "pk": 36,
+    "fields": {
+      "name": "contraceptive_modern_method"
+    }
+  },
+  {
+    "model": "wazimap.dbtable",
+    "pk": 37,
+    "fields": {
+      "name": "weightforheight"
+    }
+  },
+  {
+    "model": "wazimap.dbtable",
+    "pk": 38,
+    "fields": {
+      "name": "education_of_respondent"
+    }
+  },
+  {
+    "model": "wazimap.dbtable",
+    "pk": 39,
+    "fields": {
+      "name": "main_reason_for_not_reporting_corruption"
+    }
+  },
+  {
+    "model": "wazimap.dbtable",
+    "pk": 40,
+    "fields": {
+      "name": "positive_image_of_china"
+    }
+  },
+  {
+    "model": "wazimap.dbtable",
+    "pk": 41,
+    "fields": {
+      "name": "chinas_influence_on_economy"
+    }
+  },
+  {
+    "model": "wazimap.dbtable",
+    "pk": 42,
+    "fields": {
+      "name": "occupation_of_respondent"
+    }
+  },
+  {
+    "model": "wazimap.dbtable",
+    "pk": 43,
+    "fields": {
+      "name": "pay_bribe_treatment_public_health"
+    }
+  },
+  {
+    "model": "wazimap.dbtable",
+    "pk": 44,
+    "fields": {
+      "name": "corruption_president_office"
+    }
+  },
+  {
+    "model": "wazimap.dbtable",
+    "pk": 45,
+    "fields": {
+      "name": "election_work_for_candidate_or_party"
+    }
+  },
+  {
+    "model": "wazimap.dbtable",
+    "pk": 46,
+    "fields": {
+      "name": "satisfaction_with_democracy"
+    }
+  },
+  {
+    "model": "wazimap.dbtable",
+    "pk": 47,
+    "fields": {
+      "name": "people_must_obey_the_law"
+    }
+  },
+  {
+    "model": "wazimap.dbtable",
+    "pk": 48,
+    "fields": {
+      "name": "voting_recent_national_election"
+    }
+  },
+  {
+    "model": "wazimap.dbtable",
+    "pk": 49,
+    "fields": {
+      "name": "people_can_fight_corruption"
+    }
+  },
+  {
+    "model": "wazimap.dbtable",
+    "pk": 50,
+    "fields": {
+      "name": "corruption_judges_and_magistrates"
+    }
+  },
+  {
+    "model": "wazimap.dbtable",
+    "pk": 51,
+    "fields": {
+      "name": "elections_to_remove_leaders_from_office"
+    }
+  },
+  {
+    "model": "wazimap.dbtable",
+    "pk": 52,
+    "fields": {
+      "name": "pay_bribe_for_household_services"
+    }
+  },
+  {
+    "model": "wazimap.dbtable",
+    "pk": 53,
+    "fields": {
+      "name": "difficulty_to_obtain_medical_treatment"
+    }
+  },
+  {
+    "model": "wazimap.dbtable",
+    "pk": 54,
+    "fields": {
+      "name": "election_attend_campaign_rally"
+    }
+  },
+  {
+    "model": "wazimap.dbtable",
+    "pk": 55,
+    "fields": {
+      "name": "election_attend_campaign_meeting"
+    }
+  },
+  {
+    "model": "wazimap.dbtable",
+    "pk": 56,
+    "fields": {
+      "name": "vote_for_which_party"
+    }
+  },
+  {
+    "model": "wazimap.dbtable",
+    "pk": 57,
+    "fields": {
+      "name": "corruption_gov_officials"
+    }
+  },
+  {
+    "model": "wazimap.dbtable",
+    "pk": 58,
+    "fields": {
+      "name": "corruption_mps"
+    }
+  },
+  {
+    "model": "wazimap.dbtable",
+    "pk": 59,
+    "fields": {
+      "name": "pay_bribe_for_document_or_permit"
+    }
+  },
+  {
+    "model": "wazimap.dbtable",
+    "pk": 60,
+    "fields": {
+      "name": "corruption_traditional_leaders"
+    }
+  },
+  {
+    "model": "wazimap.dbtable",
+    "pk": 61,
+    "fields": {
+      "name": "own_television"
+    }
+  },
+  {
+    "model": "wazimap.dbtable",
+    "pk": 62,
+    "fields": {
+      "name": "corruption_tax_officials"
+    }
+  },
+  {
+    "model": "wazimap.dbtable",
+    "pk": 63,
+    "fields": {
+      "name": "elections_ensure_voters_views_are_reflected"
+    }
+  },
+  {
+    "model": "wazimap.dbtable",
+    "pk": 64,
+    "fields": {
+      "name": "own_mobile_phone"
+    }
+  },
+  {
+    "model": "wazimap.dbtable",
+    "pk": 65,
+    "fields": {
+      "name": "most_effective_way_to_combat_corruption"
+    }
+  },
+  {
+    "model": "wazimap.dbtable",
+    "pk": 66,
+    "fields": {
+      "name": "how_often_use_the_internet"
+    }
+  },
+  {
+    "model": "wazimap.dbtable",
+    "pk": 67,
+    "fields": {
+      "name": "freeness_and_fairness_last_elections"
+    }
+  },
+  {
+    "model": "wazimap.dbtable",
+    "pk": 68,
+    "fields": {
+      "name": "chinas_influence_positive_or_negative"
+    }
+  },
+  {
+    "model": "wazimap.dbtable",
+    "pk": 69,
+    "fields": {
+      "name": "difficulty_to_obtain_identity_document"
+    }
+  },
+  {
+    "model": "wazimap.dbtable",
+    "pk": 70,
+    "fields": {
+      "name": "difficulty_to_obtain_household_services"
+    }
+  },
+  {
+    "model": "wazimap.dbtable",
+    "pk": 71,
+    "fields": {
+      "name": "level_of_corruption"
+    }
+  },
+  {
+    "model": "wazimap.dbtable",
+    "pk": 72,
+    "fields": {
+      "name": "chinas_assistance_meets_country_needs"
+    }
+  },
+  {
+    "model": "wazimap.dbtable",
+    "pk": 73,
+    "fields": {
+      "name": "corruption_local_gov_councilors"
+    }
+  },
+  {
+    "model": "wazimap.dbtable",
+    "pk": 74,
+    "fields": {
+      "name": "extent_of_democracy"
+    }
+  },
+  {
+    "model": "wazimap.dbtable",
+    "pk": 75,
+    "fields": {
+      "name": "pay_bribe_for_school_services"
+    }
+  },
+  {
+    "model": "wazimap.dbtable",
+    "pk": 76,
+    "fields": {
+      "name": "corruption_religious_leaders"
+    }
+  },
+  {
+    "model": "wazimap.dbtable",
+    "pk": 77,
+    "fields": {
+      "name": "corruption_business_executives"
+    }
+  },
+  {
+    "model": "wazimap.dbtable",
+    "pk": 78,
+    "fields": {
+      "name": "employment_status"
+    }
+  },
+  {
+    "model": "wazimap.dbtable",
+    "pk": 79,
+    "fields": {
+      "name": "difficulty_to_obtain_public_school_services"
+    }
+  },
+  {
+    "model": "wazimap.dbtable",
+    "pk": 80,
+    "fields": {
+      "name": "corruption_police"
+    }
+  },
+  {
+    "model": "wazimap.dbtable",
+    "pk": 81,
+    "fields": {
+      "name": "negative_image_of_china"
+    }
+  },
+  {
+    "model": "wazimap.dbtable",
+    "pk": 82,
+    "fields": {
+      "name": "own_radio"
+    }
+  },
+  {
+    "model": "wazimap.dbtable",
+    "pk": 83,
+    "fields": {
+      "name": "people_must_pay_taxes"
+    }
+  },
+  {
+    "model": "wazimap.dbtable",
+    "pk": 84,
+    "fields": {
+      "name": "courts_make_binding_decisions"
+    }
+  },
+  {
+    "model": "wazimap.dbtable",
+    "pk": 85,
+    "fields": {
+      "name": "employer_of_respondent"
+    }
+  },
+  {
+    "model": "wazimap.dbtable",
+    "pk": 86,
+    "fields": {
+      "name": "how_often_use_a_mobile_phone"
+    }
+  },
+  {
+    "model": "wazimap.dbtable",
+    "pk": 87,
+    "fields": {
+      "name": "own_motor_vehicle"
+    }
+  },
+  {
+    "model": "wazimap.dbtable",
+    "pk": 88,
+    "fields": {
+      "name": "wealth_quintile"
+    }
+  },
+  {
+    "model": "wazimap.dbtable",
+    "pk": 89,
+    "fields": {
+      "name": "marital_status_physical_violence_perpetrator_sex"
+    }
+  },
+  {
+    "model": "wazimap.dbtable",
+    "pk": 90,
+    "fields": {
+      "name": "age_group_of_violence"
+    }
+  },
+  {
+    "model": "wazimap.dbtable",
+    "pk": 91,
+    "fields": {
+      "name": "disability_sex"
+    }
+  },
+  {
+    "model": "wazimap.dbtable",
+    "pk": 92,
+    "fields": {
+      "name": "year_wage_service_activities_sex"
+    }
+  },
+  {
+    "model": "wazimap.dbtable",
+    "pk": 93,
+    "fields": {
+      "name": "education_level_sex"
+    }
+  },
+  {
+    "model": "wazimap.dbtable",
+    "pk": 94,
+    "fields": {
+      "name": "sexual_violence_perpetrator_sex"
+    }
+  },
+  {
+    "model": "wazimap.dbtable",
+    "pk": 95,
+    "fields": {
+      "name": "hypertension_or_diabetes_sex_agegroup"
+    }
+  },
+  {
+    "model": "wazimap.dbtable",
+    "pk": 96,
+    "fields": {
+      "name": "sex_year_wage_education"
+    }
+  },
+  {
+    "model": "wazimap.dbtable",
+    "pk": 97,
+    "fields": {
+      "name": "year_wage_agric_sex"
+    }
+  },
+  {
+    "model": "wazimap.dbtable",
+    "pk": 98,
+    "fields": {
+      "name": "sex_age_group_people_who_smoke"
+    }
+  },
+  {
+    "model": "wazimap.dbtable",
+    "pk": 99,
+    "fields": {
+      "name": "agegroup_prostate_cancer"
+    }
+  },
+  {
+    "model": "wazimap.dbtable",
+    "pk": 100,
+    "fields": {
+      "name": "violence_during_preg_educ_level"
+    }
+  },
+  {
+    "model": "wazimap.dbtable",
+    "pk": 101,
+    "fields": {
+      "name": "age_group_cervical_cancer"
+    }
+  },
+  {
+    "model": "wazimap.dbtable",
+    "pk": 102,
+    "fields": {
+      "name": "year_wage_wholesale_sex"
+    }
+  },
+  {
+    "model": "wazimap.dbtable",
+    "pk": 103,
+    "fields": {
+      "name": "year_wage_manufacturing_sex"
+    }
+  },
+  {
+    "model": "wazimap.dbtable",
+    "pk": 104,
+    "fields": {
+      "name": "year_wage_public_admin_sex"
+    }
+  },
+  {
+    "model": "wazimap.dbtable",
+    "pk": 105,
+    "fields": {
+      "name": "examination_agegroup"
+    }
+  },
+  {
+    "model": "wazimap.dbtable",
+    "pk": 106,
+    "fields": {
+      "name": "prostate_cancer_agegroup"
+    }
+  },
+  {
+    "model": "wazimap.fieldtable",
+    "pk": 1,
+    "fields": {
+      "name": "MAINTYPEOFWALLMATERIAL",
+      "universe": "Households",
+      "dataset": 1,
+      "stat_type": "number",
+      "description": "Households by main type of wall material",
+      "fields": "[\"main type of wall material\"]",
+      "denominator_key": null,
+      "has_total": true,
+      "value_type": "Integer"
+    }
+  },
+  {
+    "model": "wazimap.fieldtable",
+    "pk": 2,
+    "fields": {
+      "name": "PROTESTS",
+      "universe": "Population",
+      "dataset": 2,
+      "stat_type": "number",
+      "description": "Population by protests",
+      "fields": "[\"protests\"]",
+      "denominator_key": null,
+      "has_total": true,
+      "value_type": "Integer"
+    }
+  },
+  {
+    "model": "wazimap.fieldtable",
+    "pk": 3,
+    "fields": {
+      "name": "HOUSEHOLD_ITN_USE_USERS",
+      "universe": "ITN",
+      "dataset": 3,
+      "stat_type": "number",
+      "description": "ITN by household, users, itn_use",
+      "fields": "[\"household\", \"users\", \"itn_use\"]",
+      "denominator_key": null,
+      "has_total": true,
+      "value_type": "Integer"
+    }
+  },
+  {
+    "model": "wazimap.fieldtable",
+    "pk": 4,
+    "fields": {
+      "name": "USEOFIPT",
+      "universe": "Maternal care indicators",
+      "dataset": 3,
+      "stat_type": "number",
+      "description": "Maternal care indicators by use of ipt",
+      "fields": "[\"use of ipt\"]",
+      "denominator_key": null,
+      "has_total": true,
+      "value_type": "Integer"
+    }
+  },
+  {
+    "model": "wazimap.fieldtable",
+    "pk": 5,
+    "fields": {
+      "name": "TREATMENT_TYPE",
+      "universe": "Population",
+      "dataset": 3,
+      "stat_type": "number",
+      "description": "Population by type, treatment",
+      "fields": "[\"type\", \"treatment\"]",
+      "denominator_key": null,
+      "has_total": true,
+      "value_type": "Integer"
+    }
+  },
+  {
+    "model": "wazimap.fieldtable",
+    "pk": 6,
+    "fields": {
+      "name": "HOUSEHOLDPOSSESSIONOFITN",
+      "universe": "ITN",
+      "dataset": 3,
+      "stat_type": "number",
+      "description": "ITN by household possession of itn",
+      "fields": "[\"household possession of itn\"]",
+      "denominator_key": null,
+      "has_total": true,
+      "value_type": "Integer"
+    }
+  },
+  {
+    "model": "wazimap.fieldtable",
+    "pk": 7,
+    "fields": {
+      "name": "CONTRACEPTIVE_USE",
+      "universe": "Contraceptive_use",
+      "dataset": 4,
+      "stat_type": "number",
+      "description": "Contraceptive_use by contraceptive_use",
+      "fields": "[\"contraceptive_use\"]",
+      "denominator_key": null,
+      "has_total": true,
+      "value_type": "Integer"
+    }
+  },
+  {
+    "model": "wazimap.fieldtable",
+    "pk": 8,
+    "fields": {
+      "name": "FERTILITY",
+      "universe": "Population",
+      "dataset": 3,
+      "stat_type": "number",
+      "description": "Population by fertility",
+      "fields": "[\"fertility\"]",
+      "denominator_key": null,
+      "has_total": true,
+      "value_type": "Integer"
+    }
+  },
+  {
+    "model": "wazimap.fieldtable",
+    "pk": 9,
+    "fields": {
+      "name": "MAINTYPEOFROOFINGMATERIAL",
+      "universe": "Households",
+      "dataset": 1,
+      "stat_type": "number",
+      "description": "Households by main type of roofing material",
+      "fields": "[\"main type of roofing material\"]",
+      "denominator_key": null,
+      "has_total": true,
+      "value_type": "Integer"
+    }
+  },
+  {
+    "model": "wazimap.fieldtable",
+    "pk": 10,
+    "fields": {
+      "name": "HEALTHRATIOS",
+      "universe": "Population",
+      "dataset": 3,
+      "stat_type": "number",
+      "description": "Population by healthratios",
+      "fields": "[\"healthratios\"]",
+      "denominator_key": null,
+      "has_total": true,
+      "value_type": "Integer"
+    }
+  },
+  {
+    "model": "wazimap.fieldtable",
+    "pk": 11,
+    "fields": {
+      "name": "MAINTYPEOFLIGHTINGFUEL",
+      "universe": "Households",
+      "dataset": 1,
+      "stat_type": "number",
+      "description": "Households by main type of lighting fuel",
+      "fields": "[\"main type of lighting fuel\"]",
+      "denominator_key": null,
+      "has_total": true,
+      "value_type": "Integer"
+    }
+  },
+  {
+    "model": "wazimap.fieldtable",
+    "pk": 12,
+    "fields": {
+      "name": "VOTERREGISTRATION_2017",
+      "universe": "Population",
+      "dataset": 5,
+      "stat_type": "number",
+      "description": "Population by voterregistration_2017",
+      "fields": "[\"voterregistration_2017\"]",
+      "denominator_key": null,
+      "has_total": true,
+      "value_type": "Integer"
+    }
+  },
+  {
+    "model": "wazimap.fieldtable",
+    "pk": 13,
+    "fields": {
+      "name": "VOTERREGISTRATION_2015",
+      "universe": "Population",
+      "dataset": 5,
+      "stat_type": "number",
+      "description": "Population by voterregistration_2015",
+      "fields": "[\"voterregistration_2015\"]",
+      "denominator_key": null,
+      "has_total": true,
+      "value_type": "Integer"
+    }
+  },
+  {
+    "model": "wazimap.fieldtable",
+    "pk": 14,
+    "fields": {
+      "name": "CRIMEREPORT",
+      "universe": "Population",
+      "dataset": 2,
+      "stat_type": "number",
+      "description": "Population by crimereport",
+      "fields": "[\"crimereport\"]",
+      "denominator_key": null,
+      "has_total": true,
+      "value_type": "Integer"
+    }
+  },
+  {
+    "model": "wazimap.fieldtable",
+    "pk": 15,
+    "fields": {
+      "name": "RELIGION",
+      "universe": "Population",
+      "dataset": 1,
+      "stat_type": "number",
+      "description": "Population by religion",
+      "fields": "[\"religion\"]",
+      "denominator_key": null,
+      "has_total": true,
+      "value_type": "Integer"
+    }
+  },
+  {
+    "model": "wazimap.fieldtable",
+    "pk": 16,
+    "fields": {
+      "name": "CROP_PRODUCTION",
+      "universe": "Population",
+      "dataset": 6,
+      "stat_type": "number",
+      "description": "Crop production and Livestock population for the year 2014 provided by the Ministry of Agriculture, Livestock and Fisheries.",
+      "fields": "[\"crop_production\"]",
+      "denominator_key": null,
+      "has_total": true,
+      "value_type": "Integer"
+    }
+  },
+  {
+    "model": "wazimap.fieldtable",
+    "pk": 17,
+    "fields": {
+      "name": "MAINSOURCEOFWATER",
+      "universe": "Households",
+      "dataset": 1,
+      "stat_type": "number",
+      "description": "Households by main source of water",
+      "fields": "[\"main source of water\"]",
+      "denominator_key": null,
+      "has_total": true,
+      "value_type": "Integer"
+    }
+  },
+  {
+    "model": "wazimap.fieldtable",
+    "pk": 18,
+    "fields": {
+      "name": "HEIGHTFORAGE",
+      "universe": "Nutrition",
+      "dataset": 3,
+      "stat_type": "number",
+      "description": "Nutrition by height for age",
+      "fields": "[\"height for age\"]",
+      "denominator_key": null,
+      "has_total": true,
+      "value_type": "Integer"
+    }
+  },
+  {
+    "model": "wazimap.fieldtable",
+    "pk": 19,
+    "fields": {
+      "name": "SCHOOLATTENDANCE_SEX",
+      "universe": "People aged 3 years and older",
+      "dataset": 1,
+      "stat_type": "number",
+      "description": "People aged 3 years and older by school attendance, sex",
+      "fields": "[\"school attendance\", \"sex\"]",
+      "denominator_key": null,
+      "has_total": true,
+      "value_type": "Integer"
+    }
+  },
+  {
+    "model": "wazimap.fieldtable",
+    "pk": 20,
+    "fields": {
+      "name": "TREATMENTOFCHILDRENWITHFEVER",
+      "universe": "Population",
+      "dataset": 3,
+      "stat_type": "number",
+      "description": "Population by treatment of children with fever",
+      "fields": "[\"treatment of children with fever\"]",
+      "denominator_key": null,
+      "has_total": true,
+      "value_type": "Integer"
+    }
+  },
+  {
+    "model": "wazimap.fieldtable",
+    "pk": 21,
+    "fields": {
+      "name": "LIVESTOCK_POPULATION",
+      "universe": "Population",
+      "dataset": 6,
+      "stat_type": "number",
+      "description": "Crop production and Livestock population for the year 2014 provided by the Ministry of Agriculture, Livestock and Fisheries.",
+      "fields": "[\"livestock_population\"]",
+      "denominator_key": null,
+      "has_total": true,
+      "value_type": "Integer"
+    }
+  },
+  {
+    "model": "wazimap.fieldtable",
+    "pk": 22,
+    "fields": {
+      "name": "HIGHESTEDUCATIONLEVELREACHED",
+      "universe": "People aged 3 years and older",
+      "dataset": 1,
+      "stat_type": "number",
+      "description": "People aged 3 years and older by highest education level reached",
+      "fields": "[\"highest education level reached\"]",
+      "denominator_key": null,
+      "has_total": true,
+      "value_type": "Integer"
+    }
+  },
+  {
+    "model": "wazimap.fieldtable",
+    "pk": 23,
+    "fields": {
+      "name": "CONTRACEPTIVE_TRADITIONAL_METHOD",
+      "universe": "Contraceptive_use",
+      "dataset": 3,
+      "stat_type": "number",
+      "description": "Contraceptive_use by contraceptive_traditional_method",
+      "fields": "[\"contraceptive_traditional_method\"]",
+      "denominator_key": null,
+      "has_total": true,
+      "value_type": "Integer"
+    }
+  },
+  {
+    "model": "wazimap.fieldtable",
+    "pk": 24,
+    "fields": {
+      "name": "KNOWLEDGEOFHIVPREVENTIONMETHODS_SEX",
+      "universe": "Population",
+      "dataset": 3,
+      "stat_type": "number",
+      "description": "Population by knowledge of hiv prevention methods, sex",
+      "fields": "[\"knowledge of hiv prevention methods\", \"sex\"]",
+      "denominator_key": null,
+      "has_total": true,
+      "value_type": "Integer"
+    }
+  },
+  {
+    "model": "wazimap.fieldtable",
+    "pk": 25,
+    "fields": {
+      "name": "MAINTYPEOFFLOORMATERIAL",
+      "universe": "Households",
+      "dataset": 1,
+      "stat_type": "number",
+      "description": "Households by main type of floor material",
+      "fields": "[\"main type of floor material\"]",
+      "denominator_key": null,
+      "has_total": true,
+      "value_type": "Integer"
+    }
+  },
+  {
+    "model": "wazimap.fieldtable",
+    "pk": 26,
+    "fields": {
+      "name": "WEIGHTFORAGE",
+      "universe": "Nutrition",
+      "dataset": 3,
+      "stat_type": "number",
+      "description": "Nutrition by weight for age",
+      "fields": "[\"weight for age\"]",
+      "denominator_key": null,
+      "has_total": true,
+      "value_type": "Integer"
+    }
+  },
+  {
+    "model": "wazimap.fieldtable",
+    "pk": 27,
+    "fields": {
+      "name": "MAINMODEOFHUMANWASTEDISPOSAL",
+      "universe": "Households",
+      "dataset": 1,
+      "stat_type": "number",
+      "description": "Households by main mode of human waste disposal",
+      "fields": "[\"main mode of human waste disposal\"]",
+      "denominator_key": null,
+      "has_total": true,
+      "value_type": "Integer"
+    }
+  },
+  {
+    "model": "wazimap.fieldtable",
+    "pk": 28,
+    "fields": {
+      "name": "LIVESTOCK_PRODUCTS",
+      "universe": "Population",
+      "dataset": 6,
+      "stat_type": "number",
+      "description": "Crop production and Livestock population for the year 2014 provided by the Ministry of Agriculture, Livestock and Fisheries.",
+      "fields": "[\"livestock_products\"]",
+      "denominator_key": null,
+      "has_total": true,
+      "value_type": "Integer"
+    }
+  },
+  {
+    "model": "wazimap.fieldtable",
+    "pk": 29,
+    "fields": {
+      "name": "AGEINCOMPLETEDYEARS_RURALORURBAN_SEX",
+      "universe": "Population",
+      "dataset": 1,
+      "stat_type": "number",
+      "description": "Population by rural or urban, sex, age in completed years",
+      "fields": "[\"rural or urban\", \"sex\", \"age in completed years\"]",
+      "denominator_key": null,
+      "has_total": true,
+      "value_type": "Integer"
+    }
+  },
+  {
+    "model": "wazimap.fieldtable",
+    "pk": 30,
+    "fields": {
+      "name": "VACCINATIONS",
+      "universe": "Population",
+      "dataset": 3,
+      "stat_type": "number",
+      "description": "Population by vaccinations",
+      "fields": "[\"vaccinations\"]",
+      "denominator_key": null,
+      "has_total": true,
+      "value_type": "Integer"
+    }
+  },
+  {
+    "model": "wazimap.fieldtable",
+    "pk": 31,
+    "fields": {
+      "name": "HOUSEHOLD_HEADS",
+      "universe": "Population",
+      "dataset": 1,
+      "stat_type": "number",
+      "description": "Population by Household_Heads",
+      "fields": "[\"Household_Heads\"]",
+      "denominator_key": null,
+      "has_total": true,
+      "value_type": "Integer"
+    }
+  },
+  {
+    "model": "wazimap.fieldtable",
+    "pk": 32,
+    "fields": {
+      "name": "MATERNALCAREINDICATORS",
+      "universe": "Maternal care indicators",
+      "dataset": 3,
+      "stat_type": "number",
+      "description": "Maternal care indicators by maternal care indicators",
+      "fields": "[\"maternal care indicators\"]",
+      "denominator_key": null,
+      "has_total": true,
+      "value_type": "Integer"
+    }
+  },
+  {
+    "model": "wazimap.fieldtable",
+    "pk": 33,
+    "fields": {
+      "name": "TYPESOFCRIME",
+      "universe": "Population",
+      "dataset": 2,
+      "stat_type": "number",
+      "description": "Population by typesofcrime",
+      "fields": "[\"typesofcrime\"]",
+      "denominator_key": null,
+      "has_total": true,
+      "value_type": "Integer"
+    }
+  },
+  {
+    "model": "wazimap.fieldtable",
+    "pk": 34,
+    "fields": {
+      "name": "EMPLOYMENTACTIVITYSTATUS_SEX",
+      "universe": "People aged 5 years and older",
+      "dataset": 1,
+      "stat_type": "number",
+      "description": "People aged 5 years and older by employment activity status, sex",
+      "fields": "[\"employment activity status\", \"sex\"]",
+      "denominator_key": null,
+      "has_total": true,
+      "value_type": "Integer"
+    }
+  },
+  {
+    "model": "wazimap.fieldtable",
+    "pk": 35,
+    "fields": {
+      "name": "SCHOOLFIRES",
+      "universe": "Population",
+      "dataset": 2,
+      "stat_type": "number",
+      "description": "Population by schoolfires",
+      "fields": "[\"schoolfires\"]",
+      "denominator_key": null,
+      "has_total": true,
+      "value_type": "Integer"
+    }
+  },
+  {
+    "model": "wazimap.fieldtable",
+    "pk": 36,
+    "fields": {
+      "name": "CONTRACEPTIVE_MODERN_METHOD",
+      "universe": "Contraceptive_use",
+      "dataset": 3,
+      "stat_type": "number",
+      "description": "Contraceptive_use by contraceptive_modern_method",
+      "fields": "[\"contraceptive_modern_method\"]",
+      "denominator_key": null,
+      "has_total": true,
+      "value_type": "Integer"
+    }
+  },
+  {
+    "model": "wazimap.fieldtable",
+    "pk": 37,
+    "fields": {
+      "name": "WEIGHTFORHEIGHT",
+      "universe": "Nutrition",
+      "dataset": 3,
+      "stat_type": "number",
+      "description": "Nutrition by weight for height",
+      "fields": "[\"weight for height\"]",
+      "denominator_key": null,
+      "has_total": true,
+      "value_type": "Integer"
+    }
+  },
+  {
+    "model": "wazimap.fieldtable",
+    "pk": 38,
+    "fields": {
+      "name": "EDUCATION_OF_RESPONDENT",
+      "universe": "Population",
+      "dataset": 7,
+      "stat_type": "number",
+      "description": "Population by education_of_respondent",
+      "fields": "[\"education_of_respondent\"]",
+      "denominator_key": null,
+      "has_total": true,
+      "value_type": "Integer"
+    }
+  },
+  {
+    "model": "wazimap.fieldtable",
+    "pk": 39,
+    "fields": {
+      "name": "MAIN_REASON_FOR_NOT_REPORTING_CORRUPTION",
+      "universe": "Population",
+      "dataset": 7,
+      "stat_type": "number",
+      "description": "Population by main_reason_for_not_reporting_corruption",
+      "fields": "[\"main_reason_for_not_reporting_corruption\"]",
+      "denominator_key": null,
+      "has_total": true,
+      "value_type": "Integer"
+    }
+  },
+  {
+    "model": "wazimap.fieldtable",
+    "pk": 40,
+    "fields": {
+      "name": "POSITIVE_IMAGE_OF_CHINA",
+      "universe": "Population",
+      "dataset": 7,
+      "stat_type": "number",
+      "description": "Population by positive_image_of_china",
+      "fields": "[\"positive_image_of_china\"]",
+      "denominator_key": null,
+      "has_total": true,
+      "value_type": "Integer"
+    }
+  },
+  {
+    "model": "wazimap.fieldtable",
+    "pk": 41,
+    "fields": {
+      "name": "CHINAS_INFLUENCE_ON_ECONOMY",
+      "universe": "Population",
+      "dataset": 7,
+      "stat_type": "number",
+      "description": "Population by chinas_influence_on_economy",
+      "fields": "[\"chinas_influence_on_economy\"]",
+      "denominator_key": null,
+      "has_total": true,
+      "value_type": "Integer"
+    }
+  },
+  {
+    "model": "wazimap.fieldtable",
+    "pk": 42,
+    "fields": {
+      "name": "OCCUPATION_OF_RESPONDENT",
+      "universe": "Population",
+      "dataset": 7,
+      "stat_type": "number",
+      "description": "Population by occupation_of_respondent",
+      "fields": "[\"occupation_of_respondent\"]",
+      "denominator_key": null,
+      "has_total": true,
+      "value_type": "Integer"
+    }
+  },
+  {
+    "model": "wazimap.fieldtable",
+    "pk": 43,
+    "fields": {
+      "name": "PAY_BRIBE_TREATMENT_PUBLIC_HEALTH",
+      "universe": "Population",
+      "dataset": 7,
+      "stat_type": "number",
+      "description": "Population by pay_bribe_treatment_public_health",
+      "fields": "[\"pay_bribe_treatment_public_health\"]",
+      "denominator_key": null,
+      "has_total": true,
+      "value_type": "Integer"
+    }
+  },
+  {
+    "model": "wazimap.fieldtable",
+    "pk": 44,
+    "fields": {
+      "name": "CORRUPTION_PRESIDENT_OFFICE",
+      "universe": "Population",
+      "dataset": 7,
+      "stat_type": "number",
+      "description": "Population by corruption_president_office",
+      "fields": "[\"corruption_president_office\"]",
+      "denominator_key": null,
+      "has_total": true,
+      "value_type": "Integer"
+    }
+  },
+  {
+    "model": "wazimap.fieldtable",
+    "pk": 45,
+    "fields": {
+      "name": "ELECTION_WORK_FOR_CANDIDATE_OR_PARTY",
+      "universe": "Population",
+      "dataset": 7,
+      "stat_type": "number",
+      "description": "Population by election_work_for_candidate_or_party",
+      "fields": "[\"election_work_for_candidate_or_party\"]",
+      "denominator_key": null,
+      "has_total": true,
+      "value_type": "Integer"
+    }
+  },
+  {
+    "model": "wazimap.fieldtable",
+    "pk": 46,
+    "fields": {
+      "name": "SATISFACTION_WITH_DEMOCRACY",
+      "universe": "Population",
+      "dataset": 7,
+      "stat_type": "number",
+      "description": "Population by satisfaction_with_democracy",
+      "fields": "[\"satisfaction_with_democracy\"]",
+      "denominator_key": null,
+      "has_total": true,
+      "value_type": "Integer"
+    }
+  },
+  {
+    "model": "wazimap.fieldtable",
+    "pk": 47,
+    "fields": {
+      "name": "PEOPLE_MUST_OBEY_THE_LAW",
+      "universe": "Population",
+      "dataset": 7,
+      "stat_type": "number",
+      "description": "Population by people_must_obey_the_law",
+      "fields": "[\"people_must_obey_the_law\"]",
+      "denominator_key": null,
+      "has_total": true,
+      "value_type": "Integer"
+    }
+  },
+  {
+    "model": "wazimap.fieldtable",
+    "pk": 48,
+    "fields": {
+      "name": "VOTING_RECENT_NATIONAL_ELECTION",
+      "universe": "Population",
+      "dataset": 7,
+      "stat_type": "number",
+      "description": "Population by voting_recent_national_election",
+      "fields": "[\"voting_recent_national_election\"]",
+      "denominator_key": null,
+      "has_total": true,
+      "value_type": "Integer"
+    }
+  },
+  {
+    "model": "wazimap.fieldtable",
+    "pk": 49,
+    "fields": {
+      "name": "PEOPLE_CAN_FIGHT_CORRUPTION",
+      "universe": "Population",
+      "dataset": 7,
+      "stat_type": "number",
+      "description": "Population by people_can_fight_corruption",
+      "fields": "[\"people_can_fight_corruption\"]",
+      "denominator_key": null,
+      "has_total": true,
+      "value_type": "Integer"
+    }
+  },
+  {
+    "model": "wazimap.fieldtable",
+    "pk": 50,
+    "fields": {
+      "name": "CORRUPTION_JUDGES_AND_MAGISTRATES",
+      "universe": "Population",
+      "dataset": 7,
+      "stat_type": "number",
+      "description": "Population by corruption_judges_and_magistrates",
+      "fields": "[\"corruption_judges_and_magistrates\"]",
+      "denominator_key": null,
+      "has_total": true,
+      "value_type": "Integer"
+    }
+  },
+  {
+    "model": "wazimap.fieldtable",
+    "pk": 51,
+    "fields": {
+      "name": "ELECTIONS_TO_REMOVE_LEADERS_FROM_OFFICE",
+      "universe": "Population",
+      "dataset": 7,
+      "stat_type": "number",
+      "description": "Population by elections_to_remove_leaders_from_office",
+      "fields": "[\"elections_to_remove_leaders_from_office\"]",
+      "denominator_key": null,
+      "has_total": true,
+      "value_type": "Integer"
+    }
+  },
+  {
+    "model": "wazimap.fieldtable",
+    "pk": 52,
+    "fields": {
+      "name": "PAY_BRIBE_FOR_HOUSEHOLD_SERVICES",
+      "universe": "Population",
+      "dataset": 7,
+      "stat_type": "number",
+      "description": "Population by pay_bribe_for_household_services",
+      "fields": "[\"pay_bribe_for_household_services\"]",
+      "denominator_key": null,
+      "has_total": true,
+      "value_type": "Integer"
+    }
+  },
+  {
+    "model": "wazimap.fieldtable",
+    "pk": 53,
+    "fields": {
+      "name": "DIFFICULTY_TO_OBTAIN_MEDICAL_TREATMENT",
+      "universe": "Population",
+      "dataset": 7,
+      "stat_type": "number",
+      "description": "Population by difficulty_to_obtain_medical_treatment",
+      "fields": "[\"difficulty_to_obtain_medical_treatment\"]",
+      "denominator_key": null,
+      "has_total": true,
+      "value_type": "Integer"
+    }
+  },
+  {
+    "model": "wazimap.fieldtable",
+    "pk": 54,
+    "fields": {
+      "name": "ELECTION_ATTEND_CAMPAIGN_RALLY",
+      "universe": "Population",
+      "dataset": 7,
+      "stat_type": "number",
+      "description": "Population by election_attend_campaign_rally",
+      "fields": "[\"election_attend_campaign_rally\"]",
+      "denominator_key": null,
+      "has_total": true,
+      "value_type": "Integer"
+    }
+  },
+  {
+    "model": "wazimap.fieldtable",
+    "pk": 55,
+    "fields": {
+      "name": "ELECTION_ATTEND_CAMPAIGN_MEETING",
+      "universe": "Population",
+      "dataset": 7,
+      "stat_type": "number",
+      "description": "Population by election_attend_campaign_meeting",
+      "fields": "[\"election_attend_campaign_meeting\"]",
+      "denominator_key": null,
+      "has_total": true,
+      "value_type": "Integer"
+    }
+  },
+  {
+    "model": "wazimap.fieldtable",
+    "pk": 56,
+    "fields": {
+      "name": "VOTE_FOR_WHICH_PARTY",
+      "universe": "Population",
+      "dataset": 7,
+      "stat_type": "number",
+      "description": "Population by vote_for_which_party",
+      "fields": "[\"vote_for_which_party\"]",
+      "denominator_key": null,
+      "has_total": true,
+      "value_type": "Integer"
+    }
+  },
+  {
+    "model": "wazimap.fieldtable",
+    "pk": 57,
+    "fields": {
+      "name": "CORRUPTION_GOV_OFFICIALS",
+      "universe": "Population",
+      "dataset": 7,
+      "stat_type": "number",
+      "description": "Population by corruption_gov_officials",
+      "fields": "[\"corruption_gov_officials\"]",
+      "denominator_key": null,
+      "has_total": true,
+      "value_type": "Integer"
+    }
+  },
+  {
+    "model": "wazimap.fieldtable",
+    "pk": 58,
+    "fields": {
+      "name": "CORRUPTION_MPS",
+      "universe": "Population",
+      "dataset": 7,
+      "stat_type": "number",
+      "description": "Population by corruption_mps",
+      "fields": "[\"corruption_mps\"]",
+      "denominator_key": null,
+      "has_total": true,
+      "value_type": "Integer"
+    }
+  },
+  {
+    "model": "wazimap.fieldtable",
+    "pk": 59,
+    "fields": {
+      "name": "PAY_BRIBE_FOR_DOCUMENT_OR_PERMIT",
+      "universe": "Population",
+      "dataset": 7,
+      "stat_type": "number",
+      "description": "Population by pay_bribe_for_document_or_permit",
+      "fields": "[\"pay_bribe_for_document_or_permit\"]",
+      "denominator_key": null,
+      "has_total": true,
+      "value_type": "Integer"
+    }
+  },
+  {
+    "model": "wazimap.fieldtable",
+    "pk": 60,
+    "fields": {
+      "name": "CORRUPTION_TRADITIONAL_LEADERS",
+      "universe": "Population",
+      "dataset": 7,
+      "stat_type": "number",
+      "description": "Population by corruption_traditional_leaders",
+      "fields": "[\"corruption_traditional_leaders\"]",
+      "denominator_key": null,
+      "has_total": true,
+      "value_type": "Integer"
+    }
+  },
+  {
+    "model": "wazimap.fieldtable",
+    "pk": 61,
+    "fields": {
+      "name": "OWN_TELEVISION",
+      "universe": "Population",
+      "dataset": 7,
+      "stat_type": "number",
+      "description": "Population by own_television",
+      "fields": "[\"own_television\"]",
+      "denominator_key": null,
+      "has_total": true,
+      "value_type": "Integer"
+    }
+  },
+  {
+    "model": "wazimap.fieldtable",
+    "pk": 62,
+    "fields": {
+      "name": "CORRUPTION_TAX_OFFICIALS",
+      "universe": "Population",
+      "dataset": 7,
+      "stat_type": "number",
+      "description": "Population by corruption_tax_officials",
+      "fields": "[\"corruption_tax_officials\"]",
+      "denominator_key": null,
+      "has_total": true,
+      "value_type": "Integer"
+    }
+  },
+  {
+    "model": "wazimap.fieldtable",
+    "pk": 63,
+    "fields": {
+      "name": "ELECTIONS_ENSURE_VOTERS_VIEWS_ARE_REFLECTED",
+      "universe": "Population",
+      "dataset": 7,
+      "stat_type": "number",
+      "description": "Population by elections_ensure_voters_views_are_reflected",
+      "fields": "[\"elections_ensure_voters_views_are_reflected\"]",
+      "denominator_key": null,
+      "has_total": true,
+      "value_type": "Integer"
+    }
+  },
+  {
+    "model": "wazimap.fieldtable",
+    "pk": 64,
+    "fields": {
+      "name": "OWN_MOBILE_PHONE",
+      "universe": "Population",
+      "dataset": 7,
+      "stat_type": "number",
+      "description": "Population by own_mobile_phone",
+      "fields": "[\"own_mobile_phone\"]",
+      "denominator_key": null,
+      "has_total": true,
+      "value_type": "Integer"
+    }
+  },
+  {
+    "model": "wazimap.fieldtable",
+    "pk": 65,
+    "fields": {
+      "name": "MOST_EFFECTIVE_WAY_TO_COMBAT_CORRUPTION",
+      "universe": "Population",
+      "dataset": 7,
+      "stat_type": "number",
+      "description": "Population by most_effective_way_to_combat_corruption",
+      "fields": "[\"most_effective_way_to_combat_corruption\"]",
+      "denominator_key": null,
+      "has_total": true,
+      "value_type": "Integer"
+    }
+  },
+  {
+    "model": "wazimap.fieldtable",
+    "pk": 66,
+    "fields": {
+      "name": "HOW_OFTEN_USE_THE_INTERNET",
+      "universe": "Population",
+      "dataset": 7,
+      "stat_type": "number",
+      "description": "Population by how_often_use_the_internet",
+      "fields": "[\"how_often_use_the_internet\"]",
+      "denominator_key": null,
+      "has_total": true,
+      "value_type": "Integer"
+    }
+  },
+  {
+    "model": "wazimap.fieldtable",
+    "pk": 67,
+    "fields": {
+      "name": "FREENESS_AND_FAIRNESS_LAST_ELECTIONS",
+      "universe": "Population",
+      "dataset": 7,
+      "stat_type": "number",
+      "description": "Population by freeness_and_fairness_last_elections",
+      "fields": "[\"freeness_and_fairness_last_elections\"]",
+      "denominator_key": null,
+      "has_total": true,
+      "value_type": "Integer"
+    }
+  },
+  {
+    "model": "wazimap.fieldtable",
+    "pk": 68,
+    "fields": {
+      "name": "CHINAS_INFLUENCE_POSITIVE_OR_NEGATIVE",
+      "universe": "Population",
+      "dataset": 7,
+      "stat_type": "number",
+      "description": "Population by chinas_influence_positive_or_negative",
+      "fields": "[\"chinas_influence_positive_or_negative\"]",
+      "denominator_key": null,
+      "has_total": true,
+      "value_type": "Integer"
+    }
+  },
+  {
+    "model": "wazimap.fieldtable",
+    "pk": 69,
+    "fields": {
+      "name": "DIFFICULTY_TO_OBTAIN_IDENTITY_DOCUMENT",
+      "universe": "Population",
+      "dataset": 7,
+      "stat_type": "number",
+      "description": "Population by difficulty_to_obtain_identity_document",
+      "fields": "[\"difficulty_to_obtain_identity_document\"]",
+      "denominator_key": null,
+      "has_total": true,
+      "value_type": "Integer"
+    }
+  },
+  {
+    "model": "wazimap.fieldtable",
+    "pk": 70,
+    "fields": {
+      "name": "DIFFICULTY_TO_OBTAIN_HOUSEHOLD_SERVICES",
+      "universe": "Population",
+      "dataset": 7,
+      "stat_type": "number",
+      "description": "Population by difficulty_to_obtain_household_services",
+      "fields": "[\"difficulty_to_obtain_household_services\"]",
+      "denominator_key": null,
+      "has_total": true,
+      "value_type": "Integer"
+    }
+  },
+  {
+    "model": "wazimap.fieldtable",
+    "pk": 71,
+    "fields": {
+      "name": "LEVEL_OF_CORRUPTION",
+      "universe": "Population",
+      "dataset": 7,
+      "stat_type": "number",
+      "description": "Population by level_of_corruption",
+      "fields": "[\"level_of_corruption\"]",
+      "denominator_key": null,
+      "has_total": true,
+      "value_type": "Integer"
+    }
+  },
+  {
+    "model": "wazimap.fieldtable",
+    "pk": 72,
+    "fields": {
+      "name": "CHINAS_ASSISTANCE_MEETS_COUNTRY_NEEDS",
+      "universe": "Population",
+      "dataset": 7,
+      "stat_type": "number",
+      "description": "Population by chinas_assistance_meets_country_needs",
+      "fields": "[\"chinas_assistance_meets_country_needs\"]",
+      "denominator_key": null,
+      "has_total": true,
+      "value_type": "Integer"
+    }
+  },
+  {
+    "model": "wazimap.fieldtable",
+    "pk": 73,
+    "fields": {
+      "name": "CORRUPTION_LOCAL_GOV_COUNCILORS",
+      "universe": "Population",
+      "dataset": 7,
+      "stat_type": "number",
+      "description": "Population by corruption_local_gov_councilors",
+      "fields": "[\"corruption_local_gov_councilors\"]",
+      "denominator_key": null,
+      "has_total": true,
+      "value_type": "Integer"
+    }
+  },
+  {
+    "model": "wazimap.fieldtable",
+    "pk": 74,
+    "fields": {
+      "name": "EXTENT_OF_DEMOCRACY",
+      "universe": "Population",
+      "dataset": 7,
+      "stat_type": "number",
+      "description": "Population by extent_of_democracy",
+      "fields": "[\"extent_of_democracy\"]",
+      "denominator_key": null,
+      "has_total": true,
+      "value_type": "Integer"
+    }
+  },
+  {
+    "model": "wazimap.fieldtable",
+    "pk": 75,
+    "fields": {
+      "name": "PAY_BRIBE_FOR_SCHOOL_SERVICES",
+      "universe": "Population",
+      "dataset": 7,
+      "stat_type": "number",
+      "description": "Population by pay_bribe_for_school_services",
+      "fields": "[\"pay_bribe_for_school_services\"]",
+      "denominator_key": null,
+      "has_total": true,
+      "value_type": "Integer"
+    }
+  },
+  {
+    "model": "wazimap.fieldtable",
+    "pk": 76,
+    "fields": {
+      "name": "CORRUPTION_RELIGIOUS_LEADERS",
+      "universe": "Population",
+      "dataset": 7,
+      "stat_type": "number",
+      "description": "Population by corruption_religious_leaders",
+      "fields": "[\"corruption_religious_leaders\"]",
+      "denominator_key": null,
+      "has_total": true,
+      "value_type": "Integer"
+    }
+  },
+  {
+    "model": "wazimap.fieldtable",
+    "pk": 77,
+    "fields": {
+      "name": "CORRUPTION_BUSINESS_EXECUTIVES",
+      "universe": "Population",
+      "dataset": 7,
+      "stat_type": "number",
+      "description": "Population by corruption_business_executives",
+      "fields": "[\"corruption_business_executives\"]",
+      "denominator_key": null,
+      "has_total": true,
+      "value_type": "Integer"
+    }
+  },
+  {
+    "model": "wazimap.fieldtable",
+    "pk": 78,
+    "fields": {
+      "name": "EMPLOYMENT_STATUS",
+      "universe": "Population",
+      "dataset": 7,
+      "stat_type": "number",
+      "description": "Population by employment_status",
+      "fields": "[\"employment_status\"]",
+      "denominator_key": null,
+      "has_total": true,
+      "value_type": "Integer"
+    }
+  },
+  {
+    "model": "wazimap.fieldtable",
+    "pk": 79,
+    "fields": {
+      "name": "DIFFICULTY_TO_OBTAIN_PUBLIC_SCHOOL_SERVICES",
+      "universe": "Population",
+      "dataset": 7,
+      "stat_type": "number",
+      "description": "Population by difficulty_to_obtain_public_school_services",
+      "fields": "[\"difficulty_to_obtain_public_school_services\"]",
+      "denominator_key": null,
+      "has_total": true,
+      "value_type": "Integer"
+    }
+  },
+  {
+    "model": "wazimap.fieldtable",
+    "pk": 80,
+    "fields": {
+      "name": "CORRUPTION_POLICE",
+      "universe": "Population",
+      "dataset": 7,
+      "stat_type": "number",
+      "description": "Population by corruption_police",
+      "fields": "[\"corruption_police\"]",
+      "denominator_key": null,
+      "has_total": true,
+      "value_type": "Integer"
+    }
+  },
+  {
+    "model": "wazimap.fieldtable",
+    "pk": 81,
+    "fields": {
+      "name": "NEGATIVE_IMAGE_OF_CHINA",
+      "universe": "Population",
+      "dataset": 7,
+      "stat_type": "number",
+      "description": "Population by negative_image_of_china",
+      "fields": "[\"negative_image_of_china\"]",
+      "denominator_key": null,
+      "has_total": true,
+      "value_type": "Integer"
+    }
+  },
+  {
+    "model": "wazimap.fieldtable",
+    "pk": 82,
+    "fields": {
+      "name": "OWN_RADIO",
+      "universe": "Population",
+      "dataset": 7,
+      "stat_type": "number",
+      "description": "Population by own_radio",
+      "fields": "[\"own_radio\"]",
+      "denominator_key": null,
+      "has_total": true,
+      "value_type": "Integer"
+    }
+  },
+  {
+    "model": "wazimap.fieldtable",
+    "pk": 83,
+    "fields": {
+      "name": "PEOPLE_MUST_PAY_TAXES",
+      "universe": "Population",
+      "dataset": 7,
+      "stat_type": "number",
+      "description": "Population by people_must_pay_taxes",
+      "fields": "[\"people_must_pay_taxes\"]",
+      "denominator_key": null,
+      "has_total": true,
+      "value_type": "Integer"
+    }
+  },
+  {
+    "model": "wazimap.fieldtable",
+    "pk": 84,
+    "fields": {
+      "name": "COURTS_MAKE_BINDING_DECISIONS",
+      "universe": "Population",
+      "dataset": 7,
+      "stat_type": "number",
+      "description": "Population by courts_make_binding_decisions",
+      "fields": "[\"courts_make_binding_decisions\"]",
+      "denominator_key": null,
+      "has_total": true,
+      "value_type": "Integer"
+    }
+  },
+  {
+    "model": "wazimap.fieldtable",
+    "pk": 85,
+    "fields": {
+      "name": "EMPLOYER_OF_RESPONDENT",
+      "universe": "Population",
+      "dataset": 7,
+      "stat_type": "number",
+      "description": "Population by employer_of_respondent",
+      "fields": "[\"employer_of_respondent\"]",
+      "denominator_key": null,
+      "has_total": true,
+      "value_type": "Integer"
+    }
+  },
+  {
+    "model": "wazimap.fieldtable",
+    "pk": 86,
+    "fields": {
+      "name": "HOW_OFTEN_USE_A_MOBILE_PHONE",
+      "universe": "Population",
+      "dataset": 7,
+      "stat_type": "number",
+      "description": "Population by how_often_use_a_mobile_phone",
+      "fields": "[\"how_often_use_a_mobile_phone\"]",
+      "denominator_key": null,
+      "has_total": true,
+      "value_type": "Integer"
+    }
+  },
+  {
+    "model": "wazimap.fieldtable",
+    "pk": 87,
+    "fields": {
+      "name": "OWN_MOTOR_VEHICLE",
+      "universe": "Population",
+      "dataset": 7,
+      "stat_type": "number",
+      "description": "Population by own_motor_vehicle",
+      "fields": "[\"own_motor_vehicle\"]",
+      "denominator_key": null,
+      "has_total": true,
+      "value_type": "Integer"
+    }
+  },
+  {
+    "model": "wazimap.fieldtable",
+    "pk": 89,
+    "fields": {
+      "name": "WEALTH_QUINTILE",
+      "universe": "Population",
+      "dataset": 8,
+      "stat_type": "number",
+      "description": "Population by wealth_quintile",
+      "fields": "[\"wealth_quintile\"]",
+      "denominator_key": null,
+      "has_total": true,
+      "value_type": "Integer"
+    }
+  },
+  {
+    "model": "wazimap.fieldtable",
+    "pk": 90,
+    "fields": {
+      "name": "MARITAL_STATUS_PHYSICAL_VIOLENCE_PERPETRATOR_SEX",
+      "universe": "Population",
+      "dataset": 8,
+      "stat_type": "number",
+      "description": "Population by marital_status, physical_violence_perpetrator, sex",
+      "fields": "[\"marital_status\", \"physical_violence_perpetrator\", \"sex\"]",
+      "denominator_key": null,
+      "has_total": true,
+      "value_type": "Integer"
+    }
+  },
+  {
+    "model": "wazimap.fieldtable",
+    "pk": 91,
+    "fields": {
+      "name": "AGE_GROUP_OF_VIOLENCE",
+      "universe": "Population",
+      "dataset": 8,
+      "stat_type": "number",
+      "description": "Population by age_group_of_violence",
+      "fields": "[\"age_group_of_violence\"]",
+      "denominator_key": null,
+      "has_total": true,
+      "value_type": "Integer"
+    }
+  },
+  {
+    "model": "wazimap.fieldtable",
+    "pk": 92,
+    "fields": {
+      "name": "DISABILITY_SEX",
+      "universe": "Population",
+      "dataset": 8,
+      "stat_type": "number",
+      "description": "Population by disability, sex",
+      "fields": "[\"disability\", \"sex\"]",
+      "denominator_key": null,
+      "has_total": true,
+      "value_type": "Integer"
+    }
+  },
+  {
+    "model": "wazimap.fieldtable",
+    "pk": 93,
+    "fields": {
+      "name": "YEAR_WAGE_SERVICE_ACTIVITIES_SEX",
+      "universe": "Population",
+      "dataset": 8,
+      "stat_type": "number",
+      "description": "Population by year_wage_service_activities, sex",
+      "fields": "[\"year_wage_service_activities\", \"sex\"]",
+      "denominator_key": null,
+      "has_total": true,
+      "value_type": "Integer"
+    }
+  },
+  {
+    "model": "wazimap.fieldtable",
+    "pk": 94,
+    "fields": {
+      "name": "EDUCATION_LEVEL_SEX",
+      "universe": "Population",
+      "dataset": 8,
+      "stat_type": "number",
+      "description": "Population by education_level, sex",
+      "fields": "[\"education_level\", \"sex\"]",
+      "denominator_key": null,
+      "has_total": true,
+      "value_type": "Integer"
+    }
+  },
+  {
+    "model": "wazimap.fieldtable",
+    "pk": 95,
+    "fields": {
+      "name": "SEXUAL_VIOLENCE_PERPETRATOR_SEX",
+      "universe": "Population",
+      "dataset": 8,
+      "stat_type": "number",
+      "description": "Population by sexual_violence_perpetrator, sex",
+      "fields": "[\"sexual_violence_perpetrator\", \"sex\"]",
+      "denominator_key": null,
+      "has_total": true,
+      "value_type": "Integer"
+    }
+  },
+  {
+    "model": "wazimap.fieldtable",
+    "pk": 96,
+    "fields": {
+      "name": "HYPERTENSION_OR_DIABETES_SEX_AGEGROUP",
+      "universe": "Population",
+      "dataset": 8,
+      "stat_type": "number",
+      "description": "Population by hypertension_or_diabetes, sex, agegroup",
+      "fields": "[\"hypertension_or_diabetes\", \"sex\", \"agegroup\"]",
+      "denominator_key": null,
+      "has_total": true,
+      "value_type": "Integer"
+    }
+  },
+  {
+    "model": "wazimap.fieldtable",
+    "pk": 97,
+    "fields": {
+      "name": "SEX_YEAR_WAGE_EDUCATION",
+      "universe": "Population",
+      "dataset": 8,
+      "stat_type": "number",
+      "description": "Population by sex, year_wage_education",
+      "fields": "[\"sex\", \"year_wage_education\"]",
+      "denominator_key": null,
+      "has_total": true,
+      "value_type": "Integer"
+    }
+  },
+  {
+    "model": "wazimap.fieldtable",
+    "pk": 98,
+    "fields": {
+      "name": "YEAR_WAGE_AGRIC_SEX",
+      "universe": "Population",
+      "dataset": 8,
+      "stat_type": "number",
+      "description": "Population by year_wage_agric, sex",
+      "fields": "[\"year_wage_agric\", \"sex\"]",
+      "denominator_key": null,
+      "has_total": true,
+      "value_type": "Integer"
+    }
+  },
+  {
+    "model": "wazimap.fieldtable",
+    "pk": 99,
+    "fields": {
+      "name": "SEX_AGE_GROUP_PEOPLE_WHO_SMOKE",
+      "universe": "Population",
+      "dataset": 8,
+      "stat_type": "number",
+      "description": "Population by sex, age_group_people_who_smoke",
+      "fields": "[\"sex\", \"age_group_people_who_smoke\"]",
+      "denominator_key": null,
+      "has_total": true,
+      "value_type": "Integer"
+    }
+  },
+  {
+    "model": "wazimap.fieldtable",
+    "pk": 100,
+    "fields": {
+      "name": "AGEGROUP_PROSTATE_CANCER",
+      "universe": "Population",
+      "dataset": 8,
+      "stat_type": "number",
+      "description": "Population by agegroup, prostate_cancer",
+      "fields": "[\"agegroup\", \"prostate_cancer\"]",
+      "denominator_key": null,
+      "has_total": true,
+      "value_type": "Integer"
+    }
+  },
+  {
+    "model": "wazimap.fieldtable",
+    "pk": 101,
+    "fields": {
+      "name": "VIOLENCE_DURING_PREG_EDUC_LEVEL",
+      "universe": "Population",
+      "dataset": 8,
+      "stat_type": "number",
+      "description": "Population by violence_during_preg_educ_level",
+      "fields": "[\"violence_during_preg_educ_level\"]",
+      "denominator_key": null,
+      "has_total": true,
+      "value_type": "Integer"
+    }
+  },
+  {
+    "model": "wazimap.fieldtable",
+    "pk": 102,
+    "fields": {
+      "name": "AGE_GROUP_CERVICAL_CANCER",
+      "universe": "Population",
+      "dataset": 8,
+      "stat_type": "number",
+      "description": "Population by age_group, cervical_cancer",
+      "fields": "[\"age_group\", \"cervical_cancer\"]",
+      "denominator_key": null,
+      "has_total": true,
+      "value_type": "Integer"
+    }
+  },
+  {
+    "model": "wazimap.fieldtable",
+    "pk": 103,
+    "fields": {
+      "name": "YEAR_WAGE_WHOLESALE_SEX",
+      "universe": "Population",
+      "dataset": 8,
+      "stat_type": "number",
+      "description": "Population by year_wage_wholesale, sex",
+      "fields": "[\"year_wage_wholesale\", \"sex\"]",
+      "denominator_key": null,
+      "has_total": true,
+      "value_type": "Integer"
+    }
+  },
+  {
+    "model": "wazimap.fieldtable",
+    "pk": 104,
+    "fields": {
+      "name": "YEAR_WAGE_MANUFACTURING_SEX",
+      "universe": "Population",
+      "dataset": 8,
+      "stat_type": "number",
+      "description": "Population by year_wage_manufacturing, sex",
+      "fields": "[\"year_wage_manufacturing\", \"sex\"]",
+      "denominator_key": null,
+      "has_total": true,
+      "value_type": "Integer"
+    }
+  },
+  {
+    "model": "wazimap.fieldtable",
+    "pk": 105,
+    "fields": {
+      "name": "YEAR_WAGE_PUBLIC_ADMIN_SEX",
+      "universe": "Population",
+      "dataset": 8,
+      "stat_type": "number",
+      "description": "Population by year_wage_public_admin, sex",
+      "fields": "[\"year_wage_public_admin\", \"sex\"]",
+      "denominator_key": null,
+      "has_total": true,
+      "value_type": "Integer"
+    }
+  },
+  {
+    "model": "wazimap.fieldtable",
+    "pk": 106,
+    "fields": {
+      "name": "EXAMINATION_AGEGROUP",
+      "universe": "Population",
+      "dataset": 8,
+      "stat_type": "number",
+      "description": "Population by examination, agegroup",
+      "fields": "[\"examination\", \"agegroup\"]",
+      "denominator_key": null,
+      "has_total": true,
+      "value_type": "Integer"
+    }
+  },
+  {
+    "model": "wazimap.fieldtable",
+    "pk": 107,
+    "fields": {
+      "name": "PROSTATE_CANCER_AGEGROUP",
+      "universe": "Population",
+      "dataset": 8,
+      "stat_type": "number",
+      "description": "Population by prostate_cancer, agegroup",
+      "fields": "[\"prostate_cancer\", \"agegroup\"]",
+      "denominator_key": null,
+      "has_total": true,
+      "value_type": "Integer"
+    }
+  },
+  {
+    "model": "wazimap.fieldtablerelease",
+    "pk": 1,
+    "fields": {
+      "data_table": 1,
+      "db_table": 1,
+      "release": 1
+    }
+  },
+  {
+    "model": "wazimap.fieldtablerelease",
+    "pk": 2,
+    "fields": {
+      "data_table": 2,
+      "db_table": 2,
+      "release": 2
+    }
+  },
+  {
+    "model": "wazimap.fieldtablerelease",
+    "pk": 3,
+    "fields": {
+      "data_table": 3,
+      "db_table": 3,
+      "release": 3
+    }
+  },
+  {
+    "model": "wazimap.fieldtablerelease",
+    "pk": 4,
+    "fields": {
+      "data_table": 4,
+      "db_table": 4,
+      "release": 3
+    }
+  },
+  {
+    "model": "wazimap.fieldtablerelease",
+    "pk": 5,
+    "fields": {
+      "data_table": 5,
+      "db_table": 5,
+      "release": 3
+    }
+  },
+  {
+    "model": "wazimap.fieldtablerelease",
+    "pk": 6,
+    "fields": {
+      "data_table": 6,
+      "db_table": 6,
+      "release": 3
+    }
+  },
+  {
+    "model": "wazimap.fieldtablerelease",
+    "pk": 7,
+    "fields": {
+      "data_table": 7,
+      "db_table": 7,
+      "release": 4
+    }
+  },
+  {
+    "model": "wazimap.fieldtablerelease",
+    "pk": 8,
+    "fields": {
+      "data_table": 8,
+      "db_table": 8,
+      "release": 3
+    }
+  },
+  {
+    "model": "wazimap.fieldtablerelease",
+    "pk": 9,
+    "fields": {
+      "data_table": 9,
+      "db_table": 9,
+      "release": 1
+    }
+  },
+  {
+    "model": "wazimap.fieldtablerelease",
+    "pk": 10,
+    "fields": {
+      "data_table": 10,
+      "db_table": 10,
+      "release": 3
+    }
+  },
+  {
+    "model": "wazimap.fieldtablerelease",
+    "pk": 11,
+    "fields": {
+      "data_table": 11,
+      "db_table": 11,
+      "release": 1
+    }
+  },
+  {
+    "model": "wazimap.fieldtablerelease",
+    "pk": 12,
+    "fields": {
+      "data_table": 12,
+      "db_table": 12,
+      "release": 5
+    }
+  },
+  {
+    "model": "wazimap.fieldtablerelease",
+    "pk": 13,
+    "fields": {
+      "data_table": 13,
+      "db_table": 13,
+      "release": 6
+    }
+  },
+  {
+    "model": "wazimap.fieldtablerelease",
+    "pk": 14,
+    "fields": {
+      "data_table": 14,
+      "db_table": 14,
+      "release": 7
+    }
+  },
+  {
+    "model": "wazimap.fieldtablerelease",
+    "pk": 15,
+    "fields": {
+      "data_table": 15,
+      "db_table": 15,
+      "release": 1
+    }
+  },
+  {
+    "model": "wazimap.fieldtablerelease",
+    "pk": 16,
+    "fields": {
+      "data_table": 16,
+      "db_table": 16,
+      "release": 8
+    }
+  },
+  {
+    "model": "wazimap.fieldtablerelease",
+    "pk": 17,
+    "fields": {
+      "data_table": 17,
+      "db_table": 17,
+      "release": 1
+    }
+  },
+  {
+    "model": "wazimap.fieldtablerelease",
+    "pk": 18,
+    "fields": {
+      "data_table": 18,
+      "db_table": 18,
+      "release": 3
+    }
+  },
+  {
+    "model": "wazimap.fieldtablerelease",
+    "pk": 19,
+    "fields": {
+      "data_table": 19,
+      "db_table": 19,
+      "release": 1
+    }
+  },
+  {
+    "model": "wazimap.fieldtablerelease",
+    "pk": 20,
+    "fields": {
+      "data_table": 20,
+      "db_table": 20,
+      "release": 3
+    }
+  },
+  {
+    "model": "wazimap.fieldtablerelease",
+    "pk": 21,
+    "fields": {
+      "data_table": 21,
+      "db_table": 21,
+      "release": 8
+    }
+  },
+  {
+    "model": "wazimap.fieldtablerelease",
+    "pk": 22,
+    "fields": {
+      "data_table": 22,
+      "db_table": 22,
+      "release": 1
+    }
+  },
+  {
+    "model": "wazimap.fieldtablerelease",
+    "pk": 23,
+    "fields": {
+      "data_table": 23,
+      "db_table": 23,
+      "release": 3
+    }
+  },
+  {
+    "model": "wazimap.fieldtablerelease",
+    "pk": 24,
+    "fields": {
+      "data_table": 24,
+      "db_table": 24,
+      "release": 3
+    }
+  },
+  {
+    "model": "wazimap.fieldtablerelease",
+    "pk": 25,
+    "fields": {
+      "data_table": 25,
+      "db_table": 25,
+      "release": 1
+    }
+  },
+  {
+    "model": "wazimap.fieldtablerelease",
+    "pk": 26,
+    "fields": {
+      "data_table": 26,
+      "db_table": 26,
+      "release": 3
+    }
+  },
+  {
+    "model": "wazimap.fieldtablerelease",
+    "pk": 27,
+    "fields": {
+      "data_table": 27,
+      "db_table": 27,
+      "release": 1
+    }
+  },
+  {
+    "model": "wazimap.fieldtablerelease",
+    "pk": 28,
+    "fields": {
+      "data_table": 28,
+      "db_table": 28,
+      "release": 8
+    }
+  },
+  {
+    "model": "wazimap.fieldtablerelease",
+    "pk": 29,
+    "fields": {
+      "data_table": 29,
+      "db_table": 29,
+      "release": 1
+    }
+  },
+  {
+    "model": "wazimap.fieldtablerelease",
+    "pk": 30,
+    "fields": {
+      "data_table": 30,
+      "db_table": 30,
+      "release": 3
+    }
+  },
+  {
+    "model": "wazimap.fieldtablerelease",
+    "pk": 31,
+    "fields": {
+      "data_table": 31,
+      "db_table": 31,
+      "release": 1
+    }
+  },
+  {
+    "model": "wazimap.fieldtablerelease",
+    "pk": 32,
+    "fields": {
+      "data_table": 32,
+      "db_table": 32,
+      "release": 3
+    }
+  },
+  {
+    "model": "wazimap.fieldtablerelease",
+    "pk": 33,
+    "fields": {
+      "data_table": 33,
+      "db_table": 33,
+      "release": 7
+    }
+  },
+  {
+    "model": "wazimap.fieldtablerelease",
+    "pk": 34,
+    "fields": {
+      "data_table": 34,
+      "db_table": 34,
+      "release": 1
+    }
+  },
+  {
+    "model": "wazimap.fieldtablerelease",
+    "pk": 35,
+    "fields": {
+      "data_table": 35,
+      "db_table": 35,
+      "release": 9
+    }
+  },
+  {
+    "model": "wazimap.fieldtablerelease",
+    "pk": 36,
+    "fields": {
+      "data_table": 36,
+      "db_table": 36,
+      "release": 3
+    }
+  },
+  {
+    "model": "wazimap.fieldtablerelease",
+    "pk": 37,
+    "fields": {
+      "data_table": 37,
+      "db_table": 37,
+      "release": 3
+    }
+  },
+  {
+    "model": "wazimap.fieldtablerelease",
+    "pk": 38,
+    "fields": {
+      "data_table": 38,
+      "db_table": 38,
+      "release": 10
+    }
+  },
+  {
+    "model": "wazimap.fieldtablerelease",
+    "pk": 39,
+    "fields": {
+      "data_table": 39,
+      "db_table": 39,
+      "release": 10
+    }
+  },
+  {
+    "model": "wazimap.fieldtablerelease",
+    "pk": 40,
+    "fields": {
+      "data_table": 40,
+      "db_table": 40,
+      "release": 10
+    }
+  },
+  {
+    "model": "wazimap.fieldtablerelease",
+    "pk": 41,
+    "fields": {
+      "data_table": 41,
+      "db_table": 41,
+      "release": 10
+    }
+  },
+  {
+    "model": "wazimap.fieldtablerelease",
+    "pk": 42,
+    "fields": {
+      "data_table": 42,
+      "db_table": 42,
+      "release": 10
+    }
+  },
+  {
+    "model": "wazimap.fieldtablerelease",
+    "pk": 43,
+    "fields": {
+      "data_table": 43,
+      "db_table": 43,
+      "release": 10
+    }
+  },
+  {
+    "model": "wazimap.fieldtablerelease",
+    "pk": 44,
+    "fields": {
+      "data_table": 44,
+      "db_table": 44,
+      "release": 10
+    }
+  },
+  {
+    "model": "wazimap.fieldtablerelease",
+    "pk": 45,
+    "fields": {
+      "data_table": 45,
+      "db_table": 45,
+      "release": 10
+    }
+  },
+  {
+    "model": "wazimap.fieldtablerelease",
+    "pk": 46,
+    "fields": {
+      "data_table": 46,
+      "db_table": 46,
+      "release": 10
+    }
+  },
+  {
+    "model": "wazimap.fieldtablerelease",
+    "pk": 47,
+    "fields": {
+      "data_table": 47,
+      "db_table": 47,
+      "release": 10
+    }
+  },
+  {
+    "model": "wazimap.fieldtablerelease",
+    "pk": 48,
+    "fields": {
+      "data_table": 48,
+      "db_table": 48,
+      "release": 10
+    }
+  },
+  {
+    "model": "wazimap.fieldtablerelease",
+    "pk": 49,
+    "fields": {
+      "data_table": 49,
+      "db_table": 49,
+      "release": 10
+    }
+  },
+  {
+    "model": "wazimap.fieldtablerelease",
+    "pk": 50,
+    "fields": {
+      "data_table": 50,
+      "db_table": 50,
+      "release": 10
+    }
+  },
+  {
+    "model": "wazimap.fieldtablerelease",
+    "pk": 51,
+    "fields": {
+      "data_table": 51,
+      "db_table": 51,
+      "release": 10
+    }
+  },
+  {
+    "model": "wazimap.fieldtablerelease",
+    "pk": 52,
+    "fields": {
+      "data_table": 52,
+      "db_table": 52,
+      "release": 10
+    }
+  },
+  {
+    "model": "wazimap.fieldtablerelease",
+    "pk": 53,
+    "fields": {
+      "data_table": 53,
+      "db_table": 53,
+      "release": 10
+    }
+  },
+  {
+    "model": "wazimap.fieldtablerelease",
+    "pk": 54,
+    "fields": {
+      "data_table": 54,
+      "db_table": 54,
+      "release": 10
+    }
+  },
+  {
+    "model": "wazimap.fieldtablerelease",
+    "pk": 55,
+    "fields": {
+      "data_table": 55,
+      "db_table": 55,
+      "release": 10
+    }
+  },
+  {
+    "model": "wazimap.fieldtablerelease",
+    "pk": 56,
+    "fields": {
+      "data_table": 56,
+      "db_table": 56,
+      "release": 10
+    }
+  },
+  {
+    "model": "wazimap.fieldtablerelease",
+    "pk": 57,
+    "fields": {
+      "data_table": 57,
+      "db_table": 57,
+      "release": 10
+    }
+  },
+  {
+    "model": "wazimap.fieldtablerelease",
+    "pk": 58,
+    "fields": {
+      "data_table": 58,
+      "db_table": 58,
+      "release": 10
+    }
+  },
+  {
+    "model": "wazimap.fieldtablerelease",
+    "pk": 59,
+    "fields": {
+      "data_table": 59,
+      "db_table": 59,
+      "release": 10
+    }
+  },
+  {
+    "model": "wazimap.fieldtablerelease",
+    "pk": 60,
+    "fields": {
+      "data_table": 60,
+      "db_table": 60,
+      "release": 10
+    }
+  },
+  {
+    "model": "wazimap.fieldtablerelease",
+    "pk": 61,
+    "fields": {
+      "data_table": 61,
+      "db_table": 61,
+      "release": 10
+    }
+  },
+  {
+    "model": "wazimap.fieldtablerelease",
+    "pk": 62,
+    "fields": {
+      "data_table": 62,
+      "db_table": 62,
+      "release": 10
+    }
+  },
+  {
+    "model": "wazimap.fieldtablerelease",
+    "pk": 63,
+    "fields": {
+      "data_table": 63,
+      "db_table": 63,
+      "release": 10
+    }
+  },
+  {
+    "model": "wazimap.fieldtablerelease",
+    "pk": 64,
+    "fields": {
+      "data_table": 64,
+      "db_table": 64,
+      "release": 10
+    }
+  },
+  {
+    "model": "wazimap.fieldtablerelease",
+    "pk": 65,
+    "fields": {
+      "data_table": 65,
+      "db_table": 65,
+      "release": 10
+    }
+  },
+  {
+    "model": "wazimap.fieldtablerelease",
+    "pk": 66,
+    "fields": {
+      "data_table": 66,
+      "db_table": 66,
+      "release": 10
+    }
+  },
+  {
+    "model": "wazimap.fieldtablerelease",
+    "pk": 67,
+    "fields": {
+      "data_table": 67,
+      "db_table": 67,
+      "release": 10
+    }
+  },
+  {
+    "model": "wazimap.fieldtablerelease",
+    "pk": 68,
+    "fields": {
+      "data_table": 68,
+      "db_table": 68,
+      "release": 10
+    }
+  },
+  {
+    "model": "wazimap.fieldtablerelease",
+    "pk": 69,
+    "fields": {
+      "data_table": 69,
+      "db_table": 69,
+      "release": 10
+    }
+  },
+  {
+    "model": "wazimap.fieldtablerelease",
+    "pk": 70,
+    "fields": {
+      "data_table": 70,
+      "db_table": 70,
+      "release": 10
+    }
+  },
+  {
+    "model": "wazimap.fieldtablerelease",
+    "pk": 71,
+    "fields": {
+      "data_table": 71,
+      "db_table": 71,
+      "release": 10
+    }
+  },
+  {
+    "model": "wazimap.fieldtablerelease",
+    "pk": 72,
+    "fields": {
+      "data_table": 72,
+      "db_table": 72,
+      "release": 10
+    }
+  },
+  {
+    "model": "wazimap.fieldtablerelease",
+    "pk": 73,
+    "fields": {
+      "data_table": 73,
+      "db_table": 73,
+      "release": 10
+    }
+  },
+  {
+    "model": "wazimap.fieldtablerelease",
+    "pk": 74,
+    "fields": {
+      "data_table": 74,
+      "db_table": 74,
+      "release": 10
+    }
+  },
+  {
+    "model": "wazimap.fieldtablerelease",
+    "pk": 75,
+    "fields": {
+      "data_table": 75,
+      "db_table": 75,
+      "release": 10
+    }
+  },
+  {
+    "model": "wazimap.fieldtablerelease",
+    "pk": 76,
+    "fields": {
+      "data_table": 76,
+      "db_table": 76,
+      "release": 10
+    }
+  },
+  {
+    "model": "wazimap.fieldtablerelease",
+    "pk": 77,
+    "fields": {
+      "data_table": 77,
+      "db_table": 77,
+      "release": 10
+    }
+  },
+  {
+    "model": "wazimap.fieldtablerelease",
+    "pk": 78,
+    "fields": {
+      "data_table": 78,
+      "db_table": 78,
+      "release": 10
+    }
+  },
+  {
+    "model": "wazimap.fieldtablerelease",
+    "pk": 79,
+    "fields": {
+      "data_table": 79,
+      "db_table": 79,
+      "release": 10
+    }
+  },
+  {
+    "model": "wazimap.fieldtablerelease",
+    "pk": 80,
+    "fields": {
+      "data_table": 80,
+      "db_table": 80,
+      "release": 10
+    }
+  },
+  {
+    "model": "wazimap.fieldtablerelease",
+    "pk": 81,
+    "fields": {
+      "data_table": 81,
+      "db_table": 81,
+      "release": 10
+    }
+  },
+  {
+    "model": "wazimap.fieldtablerelease",
+    "pk": 82,
+    "fields": {
+      "data_table": 82,
+      "db_table": 82,
+      "release": 10
+    }
+  },
+  {
+    "model": "wazimap.fieldtablerelease",
+    "pk": 83,
+    "fields": {
+      "data_table": 83,
+      "db_table": 83,
+      "release": 10
+    }
+  },
+  {
+    "model": "wazimap.fieldtablerelease",
+    "pk": 84,
+    "fields": {
+      "data_table": 84,
+      "db_table": 84,
+      "release": 10
+    }
+  },
+  {
+    "model": "wazimap.fieldtablerelease",
+    "pk": 85,
+    "fields": {
+      "data_table": 85,
+      "db_table": 85,
+      "release": 10
+    }
+  },
+  {
+    "model": "wazimap.fieldtablerelease",
+    "pk": 86,
+    "fields": {
+      "data_table": 86,
+      "db_table": 86,
+      "release": 10
+    }
+  },
+  {
+    "model": "wazimap.fieldtablerelease",
+    "pk": 87,
+    "fields": {
+      "data_table": 87,
+      "db_table": 87,
+      "release": 10
+    }
+  },
+  {
+    "model": "wazimap.fieldtablerelease",
+    "pk": 88,
+    "fields": {
+      "data_table": 89,
+      "db_table": 88,
+      "release": 11
+    }
+  },
+  {
+    "model": "wazimap.fieldtablerelease",
+    "pk": 89,
+    "fields": {
+      "data_table": 90,
+      "db_table": 89,
+      "release": 11
+    }
+  },
+  {
+    "model": "wazimap.fieldtablerelease",
+    "pk": 90,
+    "fields": {
+      "data_table": 91,
+      "db_table": 90,
+      "release": 11
+    }
+  },
+  {
+    "model": "wazimap.fieldtablerelease",
+    "pk": 91,
+    "fields": {
+      "data_table": 92,
+      "db_table": 91,
+      "release": 11
+    }
+  },
+  {
+    "model": "wazimap.fieldtablerelease",
+    "pk": 92,
+    "fields": {
+      "data_table": 93,
+      "db_table": 92,
+      "release": 11
+    }
+  },
+  {
+    "model": "wazimap.fieldtablerelease",
+    "pk": 93,
+    "fields": {
+      "data_table": 94,
+      "db_table": 93,
+      "release": 11
+    }
+  },
+  {
+    "model": "wazimap.fieldtablerelease",
+    "pk": 94,
+    "fields": {
+      "data_table": 95,
+      "db_table": 94,
+      "release": 11
+    }
+  },
+  {
+    "model": "wazimap.fieldtablerelease",
+    "pk": 95,
+    "fields": {
+      "data_table": 96,
+      "db_table": 95,
+      "release": 11
+    }
+  },
+  {
+    "model": "wazimap.fieldtablerelease",
+    "pk": 96,
+    "fields": {
+      "data_table": 97,
+      "db_table": 96,
+      "release": 11
+    }
+  },
+  {
+    "model": "wazimap.fieldtablerelease",
+    "pk": 97,
+    "fields": {
+      "data_table": 98,
+      "db_table": 97,
+      "release": 11
+    }
+  },
+  {
+    "model": "wazimap.fieldtablerelease",
+    "pk": 98,
+    "fields": {
+      "data_table": 99,
+      "db_table": 98,
+      "release": 11
+    }
+  },
+  {
+    "model": "wazimap.fieldtablerelease",
+    "pk": 99,
+    "fields": {
+      "data_table": 100,
+      "db_table": 99,
+      "release": 11
+    }
+  },
+  {
+    "model": "wazimap.fieldtablerelease",
+    "pk": 100,
+    "fields": {
+      "data_table": 101,
+      "db_table": 100,
+      "release": 11
+    }
+  },
+  {
+    "model": "wazimap.fieldtablerelease",
+    "pk": 101,
+    "fields": {
+      "data_table": 102,
+      "db_table": 101,
+      "release": 11
+    }
+  },
+  {
+    "model": "wazimap.fieldtablerelease",
+    "pk": 102,
+    "fields": {
+      "data_table": 103,
+      "db_table": 102,
+      "release": 11
+    }
+  },
+  {
+    "model": "wazimap.fieldtablerelease",
+    "pk": 103,
+    "fields": {
+      "data_table": 104,
+      "db_table": 103,
+      "release": 11
+    }
+  },
+  {
+    "model": "wazimap.fieldtablerelease",
+    "pk": 104,
+    "fields": {
+      "data_table": 105,
+      "db_table": 104,
+      "release": 11
+    }
+  },
+  {
+    "model": "wazimap.fieldtablerelease",
+    "pk": 105,
+    "fields": {
+      "data_table": 106,
+      "db_table": 105,
+      "release": 11
+    }
+  },
+  {
+    "model": "wazimap.fieldtablerelease",
+    "pk": 106,
+    "fields": {
+      "data_table": 107,
+      "db_table": 106,
+      "release": 11
+    }
+  }
+]

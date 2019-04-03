@@ -2,8 +2,8 @@
 -- PostgreSQL database dump
 --
 
--- Dumped from database version 10.6
--- Dumped by pg_dump version 10.6
+-- Dumped from database version 9.5.15
+-- Dumped by pg_dump version 9.6.11
 
 SET statement_timeout = 0;
 SET lock_timeout = 0;
@@ -76,54 +76,54 @@ ALTER TABLE ONLY public.wazimap_geography ALTER COLUMN id SET DEFAULT nextval('p
 --
 
 COPY public.wazimap_geography (id, geo_level, geo_code, name, square_kms, parent_level, parent_code, long_name, version) FROM stdin;
-22	county	20	Kirinyaga	1205.40000000000009	country	KE	\N	2009
-23	county	21	Murang'a	2325.80000000000018	country	KE	\N	2009
-20	county	18	Nyandarua	3107.69999999999982	country	KE	\N	2009
-21	county	19	Nyeri	2361	country	KE	\N	2009
-26	county	24	West Pokot	8418.20000000000073	country	KE	\N	2009
-27	county	25	Samburu	20182.5	country	KE	\N	2009
-24	county	22	Kiambu	2449.19999999999982	country	KE	\N	2009
-25	county	23	Turkana	71597.8000000000029	country	KE	\N	2009
-30	county	28	Elgeyo-Marakwet	3049.69999999999982	country	KE	\N	2009
-31	county	29	Nandi	2884.5	country	KE	\N	2009
-28	county	26	Trans-Nzoia	2469.90000000000009	country	KE	\N	2009
-29	county	27	Uasin Gishu	2955.30000000000018	country	KE	\N	2009
-34	county	32	Nakuru	7509.5	country	KE	\N	2009
-35	county	33	Narok	17921.2000000000007	country	KE	\N	2009
-32	county	30	Baringo	11075.2999999999993	country	KE	\N	2009
-33	county	31	Laikipia	8696.10000000000036	country	KE	\N	2009
-38	county	36	Bomet	1997.90000000000009	country	KE	\N	2009
-39	county	37	Kakamega	3033.80000000000018	country	KE	\N	2009
-36	county	34	Kajiado	21292.7000000000007	country	KE	\N	2009
-37	county	35	Kericho	2454.5	country	KE	\N	2009
-42	county	40	Busia	1628.40000000000009	country	KE	\N	2009
-43	county	41	Siaya	2496.09999999999991	country	KE	\N	2009
-40	county	38	Vihiga	531.299999999999955	country	KE	\N	2009
-41	county	39	Bungoma	2206.90000000000009	country	KE	\N	2009
-46	county	44	Migori	2586.40000000000009	country	KE	\N	2009
-47	county	45	Kisii	1317.90000000000009	country	KE	\N	2009
-44	county	42	Kisumu	2009.5	country	KE	\N	2009
-45	county	43	Homa Bay	3154.69999999999982	country	KE	\N	2009
-48	county	46	Nyamira	912.5	country	KE	\N	2009
-49	county	47	Nairobi	694.899999999999977	country	KE	\N	2009
 2	country	KE	Kenya	581309	\N	\N	\N	2009
 3	county	1	Mombasa	212.5	country	KE	\N	2009
-6	county	4	Tana River	35375.8000000000029	country	KE	\N	2009
-7	county	5	Lamu	6497.69999999999982	country	KE	\N	2009
 4	county	2	Kwale	8270.29999999999927	country	KE	\N	2009
 5	county	3	Kilifi	12245.8999999999996	country	KE	\N	2009
-10	county	8	Wajir	55840.5999999999985	country	KE	\N	2009
-11	county	9	Mandera	25797.7000000000007	country	KE	\N	2009
+6	county	4	Tana River	35375.8000000000029	country	KE	\N	2009
+7	county	5	Lamu	6497.69999999999982	country	KE	\N	2009
 8	county	6	Taita-Taveta	17083.9000000000015	country	KE	\N	2009
 9	county	7	Garissa	45720.1999999999971	country	KE	\N	2009
-14	county	12	Meru	6930.10000000000036	country	KE	\N	2009
-15	county	13	Tharaka-Nithi	2409.5	country	KE	\N	2009
+10	county	8	Wajir	55840.5999999999985	country	KE	\N	2009
+11	county	9	Mandera	25797.7000000000007	country	KE	\N	2009
 12	county	10	Marsabit	66923.1000000000058	country	KE	\N	2009
 13	county	11	Isiolo	25336.0999999999985	country	KE	\N	2009
-18	county	16	Machakos	5952.89999999999964	country	KE	\N	2009
-19	county	17	Makueni	8008.89999999999964	country	KE	\N	2009
+14	county	12	Meru	6930.10000000000036	country	KE	\N	2009
+15	county	13	Tharaka-Nithi	2409.5	country	KE	\N	2009
 16	county	14	Embu	2555.90000000000009	country	KE	\N	2009
 17	county	15	Kitui	24385.0999999999985	country	KE	\N	2009
+18	county	16	Machakos	5952.89999999999964	country	KE	\N	2009
+19	county	17	Makueni	8008.89999999999964	country	KE	\N	2009
+20	county	18	Nyandarua	3107.69999999999982	country	KE	\N	2009
+21	county	19	Nyeri	2361	country	KE	\N	2009
+22	county	20	Kirinyaga	1205.40000000000009	country	KE	\N	2009
+23	county	21	Murang'a	2325.80000000000018	country	KE	\N	2009
+24	county	22	Kiambu	2449.19999999999982	country	KE	\N	2009
+25	county	23	Turkana	71597.8000000000029	country	KE	\N	2009
+26	county	24	West Pokot	8418.20000000000073	country	KE	\N	2009
+27	county	25	Samburu	20182.5	country	KE	\N	2009
+28	county	26	Trans-Nzoia	2469.90000000000009	country	KE	\N	2009
+29	county	27	Uasin Gishu	2955.30000000000018	country	KE	\N	2009
+30	county	28	Elgeyo-Marakwet	3049.69999999999982	country	KE	\N	2009
+31	county	29	Nandi	2884.5	country	KE	\N	2009
+32	county	30	Baringo	11075.2999999999993	country	KE	\N	2009
+33	county	31	Laikipia	8696.10000000000036	country	KE	\N	2009
+34	county	32	Nakuru	7509.5	country	KE	\N	2009
+35	county	33	Narok	17921.2000000000007	country	KE	\N	2009
+36	county	34	Kajiado	21292.7000000000007	country	KE	\N	2009
+37	county	35	Kericho	2454.5	country	KE	\N	2009
+38	county	36	Bomet	1997.90000000000009	country	KE	\N	2009
+39	county	37	Kakamega	3033.80000000000018	country	KE	\N	2009
+40	county	38	Vihiga	531.299999999999955	country	KE	\N	2009
+41	county	39	Bungoma	2206.90000000000009	country	KE	\N	2009
+42	county	40	Busia	1628.40000000000009	country	KE	\N	2009
+43	county	41	Siaya	2496.09999999999991	country	KE	\N	2009
+44	county	42	Kisumu	2009.5	country	KE	\N	2009
+45	county	43	Homa Bay	3154.69999999999982	country	KE	\N	2009
+46	county	44	Migori	2586.40000000000009	country	KE	\N	2009
+47	county	45	Kisii	1317.90000000000009	country	KE	\N	2009
+48	county	46	Nyamira	912.5	country	KE	\N	2009
+49	county	47	Nairobi	694.899999999999977	country	KE	\N	2009
 \.
 
 

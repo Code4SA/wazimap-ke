@@ -63,3 +63,15 @@ def sort_keys(key_order, d):
             sorted(d.items(), key=lambda i: key_order.index(i[0])))
     except ValueError:
         return d
+
+"""
+for t in `ls hurumap_ke/sql/[a-z]*.sql`
+do
+    echo $t
+    pg_dump "postgres://hurumap:hurumap@db/hurumap_ke" \
+        -O -c --if-exists -t $(basename $t .sql) \
+      | egrep -v "(idle_in_transaction_session_timeout|row_security)" \
+      > hurumap_ke/sql/$(basename $t .sql).sql
+done
+
+"""

@@ -989,5 +989,128 @@
         </section>
       </div>
     </article>{% endif %}
+    {% if not gender.is_missing %}
+    <article class="clearfix">
+      <header class="section-contents">
+        <h1>Gender</h1>
+      </header>
+      <div class="section-container">
+        {% if not gender.hypertension_and_diabetes_sex.is_missing %}
+          <section class="clearfix stat-row">
+            <div class="column-full"
+                 id="chart-grouped_column-gender-hypertension_or_diabetes_sex"
+                 data-stat-type="scaled-percentage"
+                 data-chart-title="Occurence of Hypertension or Diabetes by sex"></div>
+            <div class="column-full"
+                 id="chart-grouped_column-gender-hypertension_or_diabetes_agegroup"
+                 data-stat-type="scaled-percentage" data-chart-title="Occurence of Hypertension and Diabetes by age group">
+            </div>
+          </section>{% endif %}
+
+        {% if not gender.cervical_cancer.is_missing %}
+          <section class="clearfix stat-row">
+            <div class="column-full"
+                 id="chart-grouped_column-gender-cervical_cancer"
+                 data-stat-type="scaled-percentage"
+                 data-chart-title="Women who have heard of Cervical Cancer">
+            </div>
+          </section>
+        {% endif %}
+        {% if not gender.prostate_cancer.is_missing %}
+          <section class="clearfix stat-row">
+            <div class="column-full"
+                 id="chart-grouped_column-gender-prostate_cancer"
+                 data-stat-type="scaled-percentage" data-chart-title="Men who have heard of Prostate Cancer">
+          </section>
+        {% endif %}
+
+
+        <section class="clearfix stat-row">
+          {% if not gender.physical_violence_perpetrator_sex.is_missing %}
+            <div class="column-full"
+                 id="chart-grouped_column-gender-physical_violence_perpetrator_sex"
+                 data-stat-type="scaled-percentage"
+                 data-chart-title="Perpetrators of Physical Violence by Sex">
+            </div>
+            </section>
+            <section class="clearfix stat-row">
+              <div class="column-full"
+                   id="chart-grouped_column-gender-physical_violence_perpetrator_marital_status"
+                   data-stat-type="scaled-percentage"
+                   data-chart-title="Perpetrators of Physical Violence by Marital Status">
+              </div>
+            </section>
+          {% endif %}
+        <section class="clearfix stat-row">
+          {% if not gender.sexual_violence_perpetrator.is_missing %}
+            <div class="column-full"
+                 id="chart-grouped_column-gender-sexual_violence_perpetrator"
+                 data-stat-type="scaled-percentage" data-chart-title="Perpetrators of Sexual Violence">
+          {% endif %}
+        </section>
+
+        <section class="clearfix stat-row">
+          {% if not gender.year_wage_service_activities.is_missing %}
+            <div class="column-full"
+                 id="chart-grouped_column-gender-year_wage_service_activities"
+                 data-stat-type=""
+                 data-chart-title="Employment Wage in Service Activities">
+          {% endif %}
+        </section>
+
+        <section class="clearfix stat-row">
+          {% if not gender.year_wage_education.is_missing %}
+            <div class="column-full"
+                 id="chart-grouped_column-gender-year_wage_education"
+                 data-stat-type=""
+                 data-chart-title="Employment Wage in Education"></div>
+          {% endif %}
+        </section>
+        <section class="clearfix stat-row">
+          {% if not gender.year_wage_agric.is_missing %}
+            <div class="column-full"
+                 id="chart-grouped_column-gender-year_wage_agric"
+                 data-stat-type=""
+                 data-chart-title="Employment Wage in Agriculture">{{ gender.year_wage_agric }}</div>
+          {% endif %}
+        </section>
+        <section class="clearfix stat-row">
+          {% if not gender.year_wage_manufacturing.is_missing %}
+            <div class="column-full"
+                 id="chart-grouped_column-gender-year_wage_manufacturing"
+                 data-stat-type=""
+                 data-chart-title="Employment Wage in Manufacturing"></div>
+          {% endif %}
+        </section>
+
+        <section class="clearfix stat-row">
+          {% if not gender.year_wage_public_admin.is_missing %}
+            <div class="column-full"
+                 id="chart-grouped_column-gender-year_wage_public_admin"
+                 data-stat-type=""
+                 data-chart-title="Employment Wage in Public Administration"></div>
+          {% endif %}
+        </section>
+
+        <section class="clearfix stat-row">
+          {% if not gender.year_wage_wholesale.is_missing %}
+            <div class="column-full"
+                 id="chart-grouped_column-gender-year_wage_wholesale"
+                 data-stat-type=""
+                 data-chart-title="Employment Wage in Wholesale"></div>
+          {% endif %}
+        </section>
+
+        <section class="clearfix stat-row">
+          {% if not gender.disability.is_missing %}
+            <div class="column-full"
+                 id="chart-grouped_column-gender-disability"
+                 data-stat-type="scaled-percentage"
+                 data-chart-title="Disability by Sex"></div>
+          {% endif %}
+        </section>
+      </div>
+    </article>
+  {% endif %}
 
 {% endblock profile_detail %}

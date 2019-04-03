@@ -791,6 +791,8 @@ def get_afrobarometer_profile(geo, session):
     return final_data
 
 
+
+
 def get_profile(geo, profile_name, request):
     session = get_session()
     data = {}
@@ -808,3 +810,5 @@ def get_profile(geo, profile_name, request):
 
     finally:
         session.close()
+
+

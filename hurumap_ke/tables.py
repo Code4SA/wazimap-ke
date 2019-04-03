@@ -204,3 +204,55 @@ FieldTable(['pay_bribe_for_document_or_permit'], year=2016,
 FieldTable(['pay_bribe_for_household_services'], year=2016,
            dataset='Afrobarometer Survey',
            id='pay_bribe_for_household_services')
+
+
+# gender facts and figures
+
+FieldTable(['wealth_quintile'], year=2017, dataset='Women and Men in Kenya',
+           id='wealth_quintile')
+FieldTable(['marital_status', 'physical_violence_perpetrator', 'sex'],
+           year=2017, dataset='Women and Men in Kenya',
+           id='marital_status_physical_violence_perpetrator_sex')
+FieldTable(['age_group_of_violence'], year=2017,
+           dataset='Women and Men in Kenya', id='age_group_of_violence')
+FieldTable(['disability', 'sex'], year=2017, dataset='Women and Men in Kenya',
+           id='disability_sex')
+FieldTable(['year_wage_service_activities', 'sex'], year=2017,
+           dataset='Women and Men in Kenya',
+           id='year_wage_service_activities_sex')
+FieldTable(['education_level', 'sex'], year=2017,
+           dataset='Women and Men in Kenya', id='education_level_sex')
+FieldTable(['sexual_violence_perpetrator', 'sex'], year=2017,
+           dataset='Women and Men in Kenya',
+           id='sexual_violence_perpetrator_sex')
+FieldTable(['hypertension_or_diabetes', 'sex', 'agegroup'], year=2017,
+           dataset='Women and Men in Kenya',
+           id='hypertension_or_diabetes_sex_agegroup')
+FieldTable(['sex', 'year_wage_education'], year=2017,
+           dataset='Women and Men in Kenya', id='sex_year_wage_education')
+FieldTable(['year_wage_agric', 'sex'], year=2017,
+           dataset='Women and Men in Kenya', id='year_wage_agric_sex')
+FieldTable(['sex', 'age_group_people_who_smoke'], year=2017,
+           dataset='Women and Men in Kenya',
+           id='sex_age_group_people_who_smoke')
+FieldTable(['agegroup', 'prostate_cancer'], year=2017,
+           dataset='Women and Men in Kenya', id='agegroup_prostate_cancer')
+FieldTable(['violence_during_preg_educ_level'], year=2017,
+           dataset='Women and Men in Kenya',
+           id='violence_during_preg_educ_level')
+FieldTable(['age_group', 'cervical_cancer'], year=2017,
+           dataset='Women and Men in Kenya', id='age_group_cervical_cancer')
+FieldTable(['year_wage_wholesale', 'sex'], year=2017,
+           dataset='Women and Men in Kenya', id='year_wage_wholesale_sex')
+FieldTable(['year_wage_manufacturing', 'sex'], year=2017,
+           dataset='Women and Men in Kenya', id='year_wage_manufacturing_sex')
+FieldTable(['year_wage_public_admin', 'sex'], year=2017,
+           dataset='Women and Men in Kenya', id='year_wage_public_admin_sex')
+FieldTable(['year_wage_agric', 'sex'], year=2017,
+           dataset='Women and Men in Kenya', id='year_wage_agric_sex')
+FieldTable(['year_wage_wholesale', 'sex'], year=2017,
+           dataset='Women and Men in Kenya', id='year_wage_wholesale_sex')
+FieldTable(['examination', 'agegroup'], year=2017,
+           dataset='Women and Men in Kenya', id='examination_agegroup')
+FieldTable(['prostate_cancer', 'agegroup'], year=2017,
+           dataset='Women and Men in Kenya', id='prostate_cancer_agegroup')

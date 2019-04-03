@@ -106,6 +106,7 @@ def get_profile(geo, profile_name, request):
             group_remainder(data['households']
                             ['wall_material_distribution'], 5)
         data['afrobarometer'] = get_afrobarometer_profile(geo, session)
+        data['gender'] = gender_stats_data(geo, session)
         return data
 
     finally:
@@ -117,6 +118,7 @@ def get_demographics_profile(geo, session):
     religion_dist_data = LOCATIONNOTFOUND
     urban_dist_data = LOCATIONNOTFOUND
     age_dist_data = LOCATIONNOTFOUND
+    age_cats = LOCATIONNOTFOUND
     total_urbanised = 0
     total_pop = 0
     median = 0
@@ -1934,4 +1936,164 @@ def get_afrobarometer_profile(geo, session):
         'pay_bribe_for_household_services': pay_bribe_for_household_services,
 
     }
+    return final_data
+
+def gender_stats_data(geo, session):
+    with dataset_context(year='2017'):
+        physical_violence_perpetrator_sex = LOCATIONNOTFOUND
+        physical_violence_perpetrator_marital_status = LOCATIONNOTFOUND
+        disability = LOCATIONNOTFOUND
+        year_wage_service_activities = LOCATIONNOTFOUND
+        education_level = LOCATIONNOTFOUND
+        sexual_violence_perpetrator = LOCATIONNOTFOUND
+        hypertension_or_diabetes_sex = LOCATIONNOTFOUND
+        hypertension_or_diabetes_agegroup = LOCATIONNOTFOUND
+        year_wage_education = LOCATIONNOTFOUND
+        year_wage_agric = LOCATIONNOTFOUND
+        year_wage_wholesale = LOCATIONNOTFOUND
+        violence_during_preg_educ_level = LOCATIONNOTFOUND
+        cervical_cancer = LOCATIONNOTFOUND
+        year_wage_manufacturing = LOCATIONNOTFOUND
+        year_wage_public_admin = LOCATIONNOTFOUND
+        prostate_cancer = LOCATIONNOTFOUND
+
+        try:
+            physical_violence_perpetrator_sex, _ = get_stat_data(
+                ['physical_violence_perpetrator', 'sex'], geo,
+                session)
+        except Exception as e:
+            pass
+
+        try:
+            physical_violence_perpetrator_marital_status, _ = get_stat_data(
+                ['physical_violence_perpetrator', 'marital_status'], geo,
+                session)
+        except Exception:
+            pass
+
+        try:
+            disability, _ = get_stat_data(['disability', 'sex'], geo, session)
+        except Exception:
+            pass
+
+        try:
+            year_wage_service_activities, _ = get_stat_data(
+                ['year_wage_service_activities', 'sex'], geo, session)
+        except Exception:
+            pass
+
+        try:
+            education_level, _ = get_stat_data(['education_level', 'sex'], geo,
+                                               session)
+        except Exception:
+            pass
+
+        try:
+            sexual_violence_perpetrator, _ = get_stat_data(
+                ['sexual_violence_perpetrator', 'sex'], geo, session)
+        except Exception:
+            pass
+
+        try:
+            hypertension_or_diabetes_sex, _ = get_stat_data(
+                ['hypertension_or_diabetes', 'sex'], geo, session,
+                table_name='hypertension_or_diabetes_sex_agegroup')
+        except Exception:
+            pass
+
+        try:
+            hypertension_or_diabetes_agegroup, _ = get_stat_data(
+                ['hypertension_or_diabetes', 'agegroup'], geo, session,
+                table_name='hypertension_or_diabetes_sex_agegroup')
+        except Exception:
+            pass
+
+        try:
+            year_wage_education, _ = get_stat_data(
+                ['year_wage_education', 'sex'], geo, session)
+        except Exception:
+            pass
+
+        try:
+            violence_during_preg_educ_level, _ = get_stat_data(
+                ['violence_during_preg_educ_level'], geo, session)
+        except Exception:
+            pass
+
+        try:
+            cervical_cancer, _ = get_stat_data(
+                ['cervical_cancer', 'age_group', ],
+                geo, session)
+        except Exception:
+            pass
+
+        try:
+            prostate_cancer, _ = get_stat_data(['prostate_cancer', 'agegroup'],
+                                               geo, session)
+        except Exception as e:
+            pass
+
+        try:
+            year_wage_manufacturing, _ = get_stat_data(
+                ['year_wage_manufacturing', 'sex'], geo, session)
+        except Exception:
+            pass
+
+        try:
+            year_wage_agric, _ = get_stat_data(
+                ['year_wage_agric', 'sex'], geo, session)
+        except Exception:
+            pass
+
+        try:
+            year_wage_wholesale, _ = get_stat_data(
+                ['year_wage_wholesale', 'sex'], geo, session)
+        except Exception:
+            pass
+
+        try:
+            year_wage_public_admin, _ = get_stat_data(
+                ['year_wage_public_admin', 'sex'], geo, session)
+        except Exception as e:
+            pass
+
+    is_missing = \
+        physical_violence_perpetrator_sex.get('is_missing') and \
+        disability.get('is_missing') and \
+        year_wage_service_activities.get('is_missing') and \
+        education_level.get('is_missing') and \
+        sexual_violence_perpetrator.get('is_missing') and \
+        hypertension_or_diabetes_sex.get('is_missing') and \
+        year_wage_education.get('is_missing') and \
+        year_wage_agric.get('is_missing') and \
+        violence_during_preg_educ_level.get('is_missing') and \
+        cervical_cancer.get('is_missing') and \
+        year_wage_manufacturing.get('is_missing') and \
+        year_wage_agric.get('is_missing') and \
+        year_wage_wholesale.get('is_missing') and \
+        year_wage_public_admin.get('is_missing') and \
+        prostate_cancer.get('is_missing') and \
+        hypertension_or_diabetes_agegroup.get('is_missing') and \
+        physical_violence_perpetrator_marital_status.get('is_missing')
+
+    final_data = {
+        'is_missing': is_missing,
+        'physical_violence_perpetrator_sex':physical_violence_perpetrator_sex,
+        'physical_violence_perpetrator_marital_status':physical_violence_perpetrator_marital_status,
+        'disability': disability,
+        'year_wage_service_activities':year_wage_service_activities,
+        'education_level': education_level,
+        'sexual_violence_perpetrator':sexual_violence_perpetrator,
+        'hypertension_or_diabetes_sex':sexual_violence_perpetrator,
+        'hypertension_or_diabetes_agegroup':hypertension_or_diabetes_agegroup,
+        'year_wage_education': year_wage_education,
+        'year_wage_agric': year_wage_agric,
+        'year_wage_wholesale': year_wage_wholesale,
+        'violence_during_preg_educ_level':violence_during_preg_educ_level,
+        'cervical_cancer':cervical_cancer,
+        'year_wage_manufacturing':year_wage_manufacturing,
+        'year_wage_public_admin': year_wage_public_admin,
+        'prostate_cancer': prostate_cancer,
+    }
+
     return final_data
